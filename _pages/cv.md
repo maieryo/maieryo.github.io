@@ -111,9 +111,23 @@ What comes after explicit rule learning? Automatizing second language grammar. O
 * Second Language Research Forum
 * TESOL International Convention & Expo
 
-<b>Affiliation/b><br>
+<b>Affiliation</b><br>
 * American Association for Applied Linguistics
 * Second Language Research Forum
 * Japan Second Language Acquisition Research Forum
 * Japan Society of English Language Education
 * Kantokoshinetsu Association of Teachers of English
+
+Referees
+======
+<b>Aline Godfroid</b><br>
+Associate Professor of Second Language Studies<br>
+B253 Wells Hall, 619 Red Cedar Road<br>
+Michigan State University<br>
+East Lansing, MI 48824-1027<br>
+Email: godfroid@msu.edu<br>
+
+<b>Robert M. De Keyser</b><br>
+Professor Emeritus of Second Language Acquisition<br>
+University of Maryland, College Park<br>
+Email: rdk@umd.edu<br>
