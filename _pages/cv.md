@@ -64,7 +64,7 @@ Awarded $18,686 for the doctoral dissertation study <i>Testing the three-stage m
 
 <b>2021</b><br>
 Graduate Student Award (Educational Testing Service Award)<br>
-Awarded $500 from American Association for Applied Linguistics for the study <i>Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data<i><br>
+Awarded $500 from American Association for Applied Linguistics for the study <i>Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data</i><br>
 
 <b>Internal</b><br>
 <b>2021</b><br>
@@ -75,3 +75,13 @@ Awarded $4,500 as stipend for Summer 2021<br>
 Michigan State University, College of Arts and Letters, Summer Fellowship<br>
 Awarded $4,500 as stipend for Summer 2020<br>
 
+Teaching
+======
+* Michigan State University
+  * LLT306: Methods of Teaching Adult and Community English to Speakers of Other Languages
+  * JPN101 Elementary Japanese I (UGR)
+  * JPN102 Elementary Japanese II (UGR)
+* University of Tokyo
+  * Advanced Academic Writing (GR)
+  * Advanced Academic Presentation (GR)
+* UGR = Undergraduate; GR = Graduate
