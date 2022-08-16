@@ -46,22 +46,32 @@ Dartmouth College<br>
 <b>2012 – 2016</b><br>
 B.A. in English and Language Science<br>
 Kanda University of International Studies, Chiba, Japan<br>
-Thesis: <i>Automaticity in L2 learning: Theories, findings, and implications</b><br>
+Thesis: <i>Automaticity in L2 learning: Theories, findings, and implications</i><br>
 Supervisor: Siwon Park<br>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
 
-
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<b>2021</b><br>
+Graduate Student Award (Educational Testing Service Award)<br>
+Award from American Association for Applied Linguistics for the study <i>Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data</i><br>
 
-Service and leadership
+Grants and Fellowships
 ======
+<b>External</b><br>
+<b>2022</b><br>
+National Science Foundation, Doctoral Dissertation Improvement Grants<br>
+Awarded $18,686 for the doctoral dissertation study <i>Testing the three-stage model of second language skill acquisition</i><br>
+
+<b>2021</b><br>
+Graduate Student Award (Educational Testing Service Award)<br>
+Awarded $500 from American Association for Applied Linguistics for the study <i>Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data<i><br>
+
+<b>Internal</b><br>
+<b>2021</b><br>
+Michigan State University, College of Arts and Letters, Summer Fellowship<br>
+Awarded $4,500 as stipend for Summer 2021<br>
+
+<b>2020</b><br>
+Michigan State University, College of Arts and Letters, Summer Fellowship<br>
+Awarded $4,500 as stipend for Summer 2020<br>
+
