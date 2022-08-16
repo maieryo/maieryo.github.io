@@ -1,12 +1,23 @@
 ---
 permalink: /
-title: "Bio"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Contact
+======
+University of Tokyo
+School of Engineering, IIIEE
+7-3-1 Hongo, Bunkyo-ku
+Tokyo 113-8656, Japan
+Email: maie(at.sign)g.ecc.u-tokyo.ac.jp
+
+Bio
+======
 Hello! My name is Ryo Maie, and I’m currently Project Assistant Professor in the [School of Engineering at University of Tokyo](https://www.t.u-tokyo.ac.jp/en/soe) and a a PhD candidate in the [SLS program at Michigan State University](https://sls.msu.edu/). Please follow the menu above for more details about me and my work.
 
 I am originally from [Ibaraki Prefecture](https://www.pref.ibaraki.jp/bugai/kokusai/tabunka/en/index.html) of Japan, located in the northeastern part of the Kanto region (Tokyo is in this region too). I grew up in a small rural city named Omitama (used to be a town named Ogawa till 2006) with a dialect that is characterized by a moderate accent and a particular variety of vocabulary.
