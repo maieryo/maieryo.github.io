@@ -24,6 +24,30 @@ Past Positions
 2017 – 2018: Teaching Assistant in the Language House Program, University of Maryland, College Park<br>
 2017 – 2018: Research Assistant in Academic Success Center, Kanda University of International Studies<br>
 2017 – 2018: Research Assistant at Center for Foreign Language, Kanda University of International Studies<br>
+
+Education
+======
+<b>2018 – 2022</b> (Expected)<br>
+Ph.D. in Second Language Studies<br>
+Michigan State University<br>
+Dissertation: <i>Testing the three-stage model of second language skill acquisition</i><br>
+Supervisor: Aline Godfroid<br>
+
+<b>2016 – 2018</b><br>
+M.A. in Second Language Acquisition<br>
+University of Maryland, College Park<br>
+Thesis: <i>Explicit and implicit aptitudes, L2 outcome measures, and learning of morphosyntax under an incidental condition</i><br>
+Supervisor: Robert M. DeKeyser
+
+<b>2014 – 2015</b><br>
+Exchange and transfer student in Psychology and Linguistics<br>
+Dartmouth College<br>
+
+<b>2012 – 2016</b><br>
+B.A. in English and Language Science<br>
+Kanda University of International Studies, Chiba, Japan<br>
+Thesis: <i>Automaticity in L2 learning: Theories, findings, and implications</b><br>
+Supervisor: Siwon Park<br>
   
 Service and leadership
 ======
