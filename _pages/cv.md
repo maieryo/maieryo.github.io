@@ -85,3 +85,35 @@ Teaching
   * Advanced Academic Writing (GR)
   * Advanced Academic Presentation (GR)
 * UGR = Undergraduate; GR = Graduate
+
+
+Professional Services and Affiliations
+======
+<b>OASIS Summaries</b><br>
+<b>2021/11/09</b><br>
+The effect of time pressure on how L2 learners read in the grammaticality judgment task. OASIS Summary of Maie, R. & Godfroid, A. (2022) in Language Learning (Ryo Maie and Aline Godfroid). https://oasis-database.org/concern/summaries/4j03d0117?locale=en<br>
+
+<b>2019/06/14</b><br>
+Cross-linguistic evidence for age effects and the role of aptitude in second language learning. OASIS Summary of DeKeyser, Alfi-Shabtay, & Ravid (2010) in Applied Psycholinguistics (Ryo Maie and Robert M. DeKeyser). https://oasis-database.org/concern/summaries/1j92g754h?locale=en<br>
+
+<b>2019/06/14</b><br>
+What comes after explicit rule learning? Automatizing second language grammar. OASIS Summary of DeKeyser (1997) in Studies in Second Language Acquisition (Ryo Maie and Robert M. DeKeyser). https://oasis-database.org/concern/summaries/rv042t15z?locale=en<br>
+
+<b>Refereeing</b><br>
+<i>Journal Articles</i><br>
+* Language Learning
+* Language Teaching
+* TESOL Quarterly
+* Studies in Second Language Acquisition
+
+<i>Conference Abstract</i><br>
+* Annual Conference of American Association for Applied Linguistics
+* Second Language Research Forum
+* TESOL International Convention & Expo
+
+<b>Affiliation/b><br>
+* American Association for Applied Linguistics
+* Second Language Research Forum
+* Japan Second Language Acquisition Research Forum
+* Japan Society of English Language Education
+* Kantokoshinetsu Association of Teachers of English
