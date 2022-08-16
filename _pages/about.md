@@ -10,11 +10,11 @@ redirect_from:
 
 Contact
 ======
-University of Tokyo
-School of Engineering, IIIEE
-7-3-1 Hongo, Bunkyo-ku
-Tokyo 113-8656, Japan
-Email: maie(at.sign)g.ecc.u-tokyo.ac.jp
+University of Tokyo<br>
+School of Engineering, IIIEE<br>
+7-3-1 Hongo, Bunkyo-ku<br>
+Tokyo 113-8656, Japan<br>
+Email: maie(at.sign)g.ecc.u-tokyo.ac.jp<br>
 
 Bio
 ======
