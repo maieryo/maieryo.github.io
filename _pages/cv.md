@@ -11,19 +11,19 @@ redirect_from:
 
 Current Positions
 ======
-1/2023 – Onward: Project Assistant Professor, the School of Engineering, University of Tokyo<br>
-7/2022 – 12/2022: Senior Academic Specialist, the School of Engineering, University of Tokyo<br>
-7/2022 – 12/2022: Part-time Lecturer, the School of Engineering, University of Tokyo<br>
-8/2018 – 12/2022: Ph.D. Student in Second Language Studies program, Michigan State University<br>
+<b>1/2023 – Onward</b>: Project Assistant Professor, the School of Engineering, University of Tokyo<br>
+<b>7/2022 – 12/2022</b>: Senior Academic Specialist, the School of Engineering, University of Tokyo<br>
+<b>7/2022 – 12/2022</b>: Part-time Lecturer, the School of Engineering, University of Tokyo<br>
+<b>8/2018 – 12/2022</b>: Ph.D. Student in Second Language Studies program, Michigan State University<br>
 
 Past Positions
 ======
-2022 – 2022: Teacher Assistant in the Second Language Studies program, Michigan State University<br>
-2020 – 2021: Teacher Assistant in the Japanese program, Michigan State University<br>
-2018 – 2020: Research Assistant in the Second Language Studies program, Michigan State University<br>
-2017 – 2018: Teaching Assistant in the Language House Program, University of Maryland, College Park<br>
-2017 – 2018: Research Assistant in Academic Success Center, Kanda University of International Studies<br>
-2017 – 2018: Research Assistant at Center for Foreign Language, Kanda University of International Studies<br>
+<b>2022 – 2022</b>: TA in the Second Language Studies program, Michigan State University<br>
+<b>2020 – 2021</b>: TA in the Japanese program, Michigan State University<br>
+<b>2018 – 2020</b>: RA in the Second Language Studies program, Michigan State University<br>
+<b>2017 – 2018</b>: TA in the Language House Program, University of Maryland, College Park<br>
+<b>2017 – 2018</b>: RA in Academic Success Center, Kanda University of International Studies<br>
+<b>2017 – 2018</b>: RA at Center for Foreign Language, Kanda University of International Studies<br>
 
 Education
 ======
