@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "Contact"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Contact
-======
 University of Tokyo<br>
 School of Engineering, IIIEE<br>
 7-3-1 Hongo, Bunkyo-ku<br>
