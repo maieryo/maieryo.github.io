@@ -20,7 +20,7 @@ Book Chapters
 
 Non-Refereed Articles
 ======
-* Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis. <i>Working Papers in SLS</i>, <i>12</i>, 74–115. https://doi.org/10.17613/naqj-0w32
+* Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis. <i>Working Papers in SLS</i>, <i>12</i>, 74–115. https://doi.org/10.17613/naqj-0w32 [Download](https://github.com/maieryo/research/blob/papers/Maie2022SLS.pdf)
 * Suzuki, Y., Maie, R, & Suga, K. (2020). Grammar instruction in the midst of COVID-19: Diversifying grammar instruction and activity. <i>English Education</i>, (9).] (Japanese) https://www.taishukan.co.jp/book/b525175.html
-* Maie, R. (2019). Interview with Nick C. Ellis. <i>Working Papers in SLS</i>, 10. https://doi.org/10.17613/cr0v-0y27
+* Maie, R. (2019). Interview with Nick C. Ellis. <i>Working Papers in SLS</i>, 10. https://doi.org/10.17613/cr0v-0y27 [Download](https://github.com/maieryo/research/blob/papers/InterviewWithNickCEllis.pdf)
 
