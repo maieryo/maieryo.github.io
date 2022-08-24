@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+My full curriculum vitae is available [here](https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf).
+
 {% include base_path %}
 
 Current Positions
