@@ -77,6 +77,15 @@ Awarded $4,500 as stipend for Summer 2021<br>
 Michigan State University, College of Arts and Letters, Summer Fellowship<br>
 Awarded $4,500 as stipend for Summer 2020<br>
 
+Current Positions
+======
+<b>Research Skills</b><br>
+<i>Software and Programming</i><br>
+<i>R</i>(studio), JASP, SPSS, Stan (<i>rstan</i>), DMDX, Gorilla, EyeLink (Experiment Builder), DMDX
+
+<i>Statistical Analysis</i><br>
+Generalized linear (mixed) models, multilevel modeling, structural equation modeling, discriminant/survival analysis, Bayesian data analysis, and meta-analysis
+
 Teaching
 ======
 * Michigan State University
