@@ -10,11 +10,21 @@ My full CV can be found [here](https://github.com/maieryo/research/blob/CV/CV_Ry
 
 Current Positions
 =====
-**1/2023–Onward**: Project Assistant Professor, the School of Engineering, University of Tokyo<br>
-**7/2022–12/2022**: Senior Academic Specialist, the School of Engineering, University of Tokyo<br>
-**7/2022–12/2022**: Part-time Lecturer, the School of Engineering, University of Tokyo<br>
-**8/2018–12/2022**: Ph.D. Student in Second Language Studies program, Michigan State University<br>
-
+**1/2023 – Onward**<br>
+Project Assistant Professor<br>
+The School of Engineering, University of Tokyo<br>
+<br>
+**7/2022–12/2022**<br>
+Senior Academic Specialist<br>
+The School of Engineering, University of Tokyo<br>
+<br>
+**7/2022–12/2022**<br>
+Part-time Lecturer<br>
+The School of Engineering, University of Tokyo<br>
+<br>
+**8/2018–12/2022**<br>
+Ph.D. Student in Second Language Studies program, Michigan State University<br>
+<br>
 Education
 =====
 **2018 – 2022** (Expected)<br>
