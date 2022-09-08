@@ -80,7 +80,7 @@ Awarded $4,500 as stipend for Summer 2020
 - JPN101 Elementary Japanese I (UGR)
 - JPN102 Elementary Japanese II (UGR)
 ## University of Tokyo
-– Advanced Academic Writing (GR)
-– Advanced Academic Presentation (GR)
+- Advanced Academic Writing (GR)
+- Advanced Academic Presentation (GR)
 - UGR = Undergraduate; GR = Graduate
 
