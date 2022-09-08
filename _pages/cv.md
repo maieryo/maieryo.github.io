@@ -31,19 +31,19 @@ Dartmouth College<br>
 B.A. in English and Language Science<br>
 Kanda University of International Studies, Chiba, Japan<br>
 
-Research
-=====
+## Research
 ### Awards
 **2021**<br>
 Graduate Student Award (Educational Testing Service Award)<br>
 Awardrd from American Association for *Applied Linguistics for the study Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data*<br>
 
-Grants and Fellowship
-External
-2022
-National Science Foundation, Doctoral Dissertation Improvement Grants
-Awarded $18,686 for the doctoral dissertation study Testing the three-stage model of second language skill acquisition
-2021
+### Grants and Fellowship
+#### External
+**2022**<br>
+National Science Foundation, Doctoral Dissertation Improvement Grants<br>
+Awarded $18,686 for the doctoral dissertation study *Testing the three-stage model of second language skill acquisition*
+
+**2021**<br>
 Graduate Student Award (Educational Testing Service Award)
 Awarded $500 from American Association for Applied Linguistics for the study Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data
 Internal
