@@ -35,7 +35,7 @@ Kanda University of International Studies, Chiba, Japan<br>
 
 Research
 =====
-#### Awards
+### Awards
 **2021**<br>
 Graduate Student Award (Educational Testing Service Award)<br>
 Awardrd from American Association for *Applied Linguistics for the study Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data*<br>
