@@ -84,3 +84,15 @@ Awarded $4,500 as stipend for Summer 2020
 - Advanced Academic Presentation (GR)
 - UGR = Undergraduate; GR = Graduate
 
+# Referees
+**Aline Godfroid**<br>
+Associate Professor of Second Language Studies<br>
+B253 Wells Hall, 619 Red Cedar Road<br>
+Michigan State University<br>
+East Lansing, MI 48824-1027<br>
+Email: godfroid@msu.edu<br>
+
+**Robert M. De Keyser**<br>
+Professor Emeritus of Second Language Acquisition<br>
+University of Maryland, College Park<br>
+Email: rdk@umd.edu<br>
