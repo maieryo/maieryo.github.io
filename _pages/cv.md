@@ -79,6 +79,7 @@ Awarded $4,500 as stipend for Summer 2020
 - LLT306: Methods of Teaching Adult and Community English to Speakers of Other Languages
 - JPN101 Elementary Japanese I (UGR)
 - JPN102 Elementary Japanese II (UGR)
+
 ## University of Tokyo
 - Advanced Academic Writing (GR)
 - Advanced Academic Presentation (GR)
