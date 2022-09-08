@@ -1,13 +1,3 @@
-
-## Publication
-Refereed Articles
-4. Yi, W., Man, K., & Maie, R. (in press). Investigating L1 and L2 speaker intuitions of
-phrasal frequency and association strength of multiword sequences. Language Learning.
-2
-3. Maie, R. & Godfroid, R. M. (2022). Controlled and automatic processing in the acceptability judgment task: An eye-tracking study. Language Learning, 72(1), 158–197. https://doi.org/10.1111/lang.12474
-2. Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2021).Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. Stage 2, received in-principle acceptance for a special issue in Language Learning.
-1. Maie, R. & DeKeyser, R. M. (2020). Conflicting evidence of explicit and implicit knowledge from objective and subjective measures. Studies in Second Language Acquisition, 42, 359–382. https://doi.org/10.1017/S0272263119000615
-
 ---
 layout: archive
 title:
