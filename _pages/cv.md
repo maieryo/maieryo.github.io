@@ -69,7 +69,7 @@ Awarded $4,500 as stipend for Summer 2020
 
 ### Referred Book Chapters
 - Maie, R., & Godfroid, A. (forthcoming). L2 practice research thus far: A methodological and paradigmatic synthesis In Y. Suzuki (Ed.), *Practice and automatization in second Language research: Theory, methods, and pedagogical implications*. New York: Cambridge University Press.
-- Jackson, D. O., & Maie, R. (2021). Implicit and statistical learning as predictors of second language outcomes: A synthesis and meta-analysis. In E. Wen, P. Skehan, & R. Sparks (Eds.), *Language aptitude theories and practice: Pushing the boundaries*. New York: Cambridge University Press.
+- Jackson, D. O., & Maie, R. (2023). Implicit and statistical learning as predictors of second language outcomes: A synthesis and meta-analysis. In E. Wen, P. Skehan, & R. Sparks (Eds.), *Language aptitude theories and practice: Pushing the boundaries*. New York: Cambridge University Press.
 - Maie, R. & Salen, B. (2021). Blustery with an occasional downpour: An analysis of target discourse in media weather forecasts. In M. J. Ahmaidan & M. H. Long (Eds.), *The Cambridge handbook of task-based language teaching*. New York: Cambridge University Press. https://doi.org/10.1017/9781108868327
 
 ### Referred Book Chapters
