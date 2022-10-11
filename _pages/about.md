@@ -31,5 +31,11 @@ In addition, I have worked on (a) explicit and implicit learning, (b) language a
 Hobbies
 ======
 ### birdwatching
+<img src="myself1.jpeg" width="122" height="163"><br>
+<img src="myself1.jpeg" width="122" height="163"><br>
+<img src="bird1.jpeg" width="300" height="200"><br>
+<img src="bird2.jpeg" width="300" height="200"><br>
+<img src="bird3.jpeg" width="300" height="200"><br>
+
 ### mountaineering
 
