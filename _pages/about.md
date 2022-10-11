@@ -28,14 +28,3 @@ My research deals with cognitive psychology of second language acquisition, whic
 
 In addition, I have worked on (a) explicit and implicit learning, (b) language aptitudes, (c) monitoring processes, (d) task-based language teaching, and (e) applied statistics in language research.
 
-Hobbies
-======
-### birdwatching
-<img src="myself1.jpeg" width="122" height="163">
-<img src="myself1.jpeg" width="122" height="163">
-<img src="bird1.jpeg" width="300" height="200">
-<img src="bird2.jpeg" width="300" height="200">
-<img src="bird3.jpeg" width="300" height="200">
-
-### mountaineering
-
