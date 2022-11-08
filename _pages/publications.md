@@ -20,7 +20,7 @@ Book Chapters
 
 Non-Refereed Articles
 ======
-* Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis. <i>Working Papers in SLS</i>, <i>12</i>, 74–115.  [[Preprint Download]](https://github.com/maieryo/research/blob/papers/Maie2022SLS.pdf)
-* Suzuki, Y., Maie, R, & Suga, K. (2020). Grammar instruction in the midst of COVID-19: Diversifying grammar instruction and activity. <i>English Education</i>, (9).] (Japanese) https://www.taishukan.co.jp/book/b525175.html
-* Maie, R. (2019). Interview with Nick C. Ellis. <i>Working Papers in SLS</i>, 10. [[Preprint Download]](https://github.com/maieryo/research/blob/papers/InterviewWithNickCEllis.pdf)
+* Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis. <i>Working Papers in SLS</i>, <i>12</i>, 74–115. [[Link]](https://hcommons.org/deposits/item/hc:46463) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/Maie2022SLS.pdf)
+* Suzuki, Y., Maie, R, & Suga, K. (2020). Grammar instruction in the midst of COVID-19: Diversifying grammar instruction and activity. <i>English Education</i>, (9).] (Japanese) [[Link]](https://www.taishukan.co.jp/book/b525175.html)
+* Maie, R. (2019). Interview with Nick C. Ellis. <i>Working Papers in SLS</i>, 10.  [[Link]](https://hcommons.org/deposits/item/hc:45843) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/InterviewWithNickCEllis.pdf)
 
