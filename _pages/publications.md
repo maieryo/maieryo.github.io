@@ -7,10 +7,10 @@ author_profile: true
 
 Refereed Articles
 ======
-* Yi, W., Man, K., & Maie, R. (2023). Investigating L1 and L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. <i>Language Learning</i>. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12521) [Preprint Download](https://github.com/maieryo/research/blob/papers/YiEtAl2022LL.pdf)
-* Maie, R. & Godfroid, R. M. (2022). Controlled and automatic processing in the acceptability judgment task: An eye-tracking study. <i>Language Learning</i>, <i>72</i>(1), 158–197. [[Link]](https://doi.org/10.1111/lang.12474) [Download](https://github.com/maieryo/research/blob/papers/Preprint_MaieGodfroidLL.pdf)
+* Yi, W., Man, K., & Maie, R. (2023). Investigating L1 and L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. <i>Language Learning</i>. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12521) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/YiEtAl2022LL.pdf)
+* Maie, R. & Godfroid, R. M. (2022). Controlled and automatic processing in the acceptability judgment task: An eye-tracking study. <i>Language Learning</i>, <i>72</i>(1), 158–197. [[Link]](https://doi.org/10.1111/lang.12474) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/Preprint_MaieGodfroidLL.pdf)
 * Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2021).Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. Stage 2, received in-principle acceptance for a special issue in <i>Language Learning</i>.
-* Maie, R. & DeKeyser, R. M. (2020). Conflicting evidence of explicit and implicit knowledge from objective and subjective measures. Studies in Second Language Acquisition, <i>42</i>(2), 359–382. [Link](https://doi.org/10.1017/S0272263119000615) [Download](https://github.com/maieryo/research/blob/papers/MaieDeKeyserSSLA2020pdf.pdf)
+* Maie, R. & DeKeyser, R. M. (2020). Conflicting evidence of explicit and implicit knowledge from objective and subjective measures. Studies in Second Language Acquisition, <i>42</i>(2), 359–382. [[Link]](https://doi.org/10.1017/S0272263119000615) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/MaieDeKeyserSSLA2020pdf.pdf)
 
 Book Chapters
 ======
@@ -20,7 +20,7 @@ Book Chapters
 
 Non-Refereed Articles
 ======
-* Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis. <i>Working Papers in SLS</i>, <i>12</i>, 74–115. [Download](https://github.com/maieryo/research/blob/papers/Maie2022SLS.pdf)
+* Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis. <i>Working Papers in SLS</i>, <i>12</i>, 74–115.  [[Preprint Download]](https://github.com/maieryo/research/blob/papers/Maie2022SLS.pdf)
 * Suzuki, Y., Maie, R, & Suga, K. (2020). Grammar instruction in the midst of COVID-19: Diversifying grammar instruction and activity. <i>English Education</i>, (9).] (Japanese) https://www.taishukan.co.jp/book/b525175.html
-* Maie, R. (2019). Interview with Nick C. Ellis. <i>Working Papers in SLS</i>, 10. [Download](https://github.com/maieryo/research/blob/papers/InterviewWithNickCEllis.pdf)
+* Maie, R. (2019). Interview with Nick C. Ellis. <i>Working Papers in SLS</i>, 10. [[Preprint Download]](https://github.com/maieryo/research/blob/papers/InterviewWithNickCEllis.pdf)
 
