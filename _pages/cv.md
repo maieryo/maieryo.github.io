@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf)
+My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf)
 
 # Current Positions
 **1/2023 – Onward**: Project Assistant Professor, the School of Engineering, University of Tokyo<br>
