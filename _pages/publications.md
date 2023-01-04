@@ -14,8 +14,8 @@ Refereed Articles
 
 Book Chapters
 ======
-* Maie, R., & Godfroid, A. (forthcoming).  A synthesis of L2 practice research: What is “practice”and how has it been investigated. In Y. Suzuki (Ed.), <i>Practice and automatization in second Language research: Theory, methods, and pedagogical implications</i>. Routledge: Cambridge University Press.
-* Jackson, D. O., & Maie, R. (2023). Implicit and statistical learning as predictors of second language outcomes: A synthesis and meta-analysis. In E. Wen, P. Skehan, & R. Sparks (Eds.), <i>Language aptitude theories and practice: Pushing the boundaries</i>. New York: Cambridge University Press.
+* Maie, R., & Godfroid, A. (forthcoming).  A synthesis of L2 practice research: What is “practice”and how has it been investigated? In Y. Suzuki (Ed.), <i>Practice and automatization in second Language research: Theory, methods, and pedagogical implications</i>. Routledge: Cambridge University Press.
+* Jackson, D. O., & Maie, R. (2023). Implicit/statistical learning and second language outcomes: A Bayesian meta-analysis. In E. Wen, P. Skehan, & R. Sparks (Eds.), <i>Language aptitude theories and practice: Pushing the boundaries</i>. New York: Cambridge University Press. 
 * Maie, R. & Salen, B. (2021). Blustery with an occasional downpour: An analysis of target discourse in media weather forecasts. In M. J. Ahmaidan & M. H. Long (Eds.), <i>The Cambridge handbook of task-based language teaching</i>. New York: Cambridge University Press.
 
 Non-Refereed Articles
