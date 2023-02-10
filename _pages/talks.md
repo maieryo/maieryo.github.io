@@ -9,7 +9,7 @@ All the frames seem to be diconnected from their source. I'm trying to fix the i
 
 Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>.
 <br>
-<iframe src="https://www.dropbox.com/s/128ukkoh1bor7pz/KimEtAlAAAL2022.pdf?dl=0" width="100%" height="300"></iframe>
+<iframe src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/KimEtAlAAAL2022.pdf" width="100%" height="300"></iframe>
 <br>
 <br>
 Maie (2021, March). Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data. Paper presented for <i>American Association for Applied Linguistics 2021</i>.
