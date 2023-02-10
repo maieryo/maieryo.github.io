@@ -7,6 +7,10 @@ author_profile: true
 
 Presentations
 ======
+### Kim, Maie, Suga, Miller & Hui (2022, March)
+<iframe src="https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf" width="100%" height="300"></iframe>
+
+
 * Kim, K. M., Maie, R., Suga, K., Miller, Z., & Hui, B. (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>. [Download](https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf)
 * Maie, R. (2021, March). Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data. Paper presented for <i>American Association for Applied Linguistics 2021</i>. [Download](https://github.com/maieryo/research/blob/presentations/MaieAAAL2021v2.pdf)
 * Maie, R. (2020, November). Testing skill acquisition stages in language learning: A case of vocabulary learning and practice. Invited to the PhD student workshop in <i>ESRC-JSLARF Symposium 2020</i>. [Download](https://github.com/maieryo/research/blob/presentations/MaieJSLARF2020.pdf)
