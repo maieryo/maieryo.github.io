@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-Presentations
-======
 ### Kim, Maie, Suga, Miller & Hui (2022, March)
 <iframe src="https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf" width="100%" height="300"></iframe>
 
