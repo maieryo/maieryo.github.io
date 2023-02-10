@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-University of Tokyo<br>
+The University of Tokyo<br>
 School of Engineering, IIIEE<br>
 7-3-1 Hongo, Bunkyo-ku<br>
 Tokyo 113-8656, Japan<br>
