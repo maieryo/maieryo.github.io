@@ -4,10 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-### Sorry!
-All the frames seem to be diconnected from their source. I'm trying to fix the issue currently. Please visit [here](https://github.com/maieryo/research/tree/presentations) to view and download my presentation slides.
-
-Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>.
+Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>. [Download](https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf)
 <br>
 <img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/KimEtAl2022.png" width="730" height="410">
 <br>
