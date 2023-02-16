@@ -9,9 +9,7 @@ All the frames seem to be diconnected from their source. I'm trying to fix the i
 
 Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>.
 <br>
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/KimEtAl2022.png" width="974" height="546">
-
-![Kim et al. (2022, March)](https://github.com/maieryo/maieryo.github.io/blob/master/_talks/KimEtAl2022.png)
+<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/KimEtAl2022.png" width="730" height="410">
 <br>
 <br>
 Maie (2021, March). Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data. Paper presented for <i>American Association for Applied Linguistics 2021</i>.
