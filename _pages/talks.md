@@ -4,50 +4,29 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-![Kim et al. (2022, Match)](https://github.com/maieryo/maieryo.github.io/blob/master/_pages/KimEtAl2022.png)
-<br>
 Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf)
 <br>
-<br>
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/KimEtAl2022.png" width="730" height="480">
 <br>
 Maie (2021, March). Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data. Paper presented for <i>American Association for Applied Linguistics 2021</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieAAAL2021v2.pdf)
 <br>
 <br>
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieJSLARF2020.png" width="730" height="520">
-<br>
 Maie (2020, November). Testing skill acquisition stages in language learning: A case of vocabulary learning and practice. Invited to the PhD student workshop in <i>ESRC-JSLARF Symposium 2020</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieJSLARF2020.pdf)
 <br>
-<br>
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieMaSLRF2020.png" width="730" height="520">
 <br>
 Maie & Ma (2020, September). Investigating the relationship between TOEFL scores and international students’ academic success: A meta-analysis. Paper presented at <i>Second Language Research Forum 2020</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieMaSLRF2020.pdf)
 <br>
 <br>
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieMaSLRF2020.png" width="730" height="520">
-<br>
-Maie (2020, March). Eyeing acceptability judgment task: Automaticity moderates different L2 knowledge and processing.Paper accepted for <i>American Association for Applied Linguistics 2020</i>.
-<br>
-<iframe src="https://drive.google.com/file/d/1XYbYHSiXCwOXTPWUHc4yn-w4AjN9v6Tk/view?usp=sharing" width="100%" height="300"></iframe>
+Maie (2020, March). Eyeing acceptability judgment task: Automaticity moderates different L2 knowledge and processing.Paper accepted for <i>American Association for Applied Linguistics 2020</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieJSLARF2020.pdf)
 <br>
 <br>
-
-<br>
-Maie (2019, September). Does automaticity moderate different types of L2 knowledge use in grammaticality judgments? An eye-tracking study. Paper presented at <i>Second Language Research Forum 2019</i>.
+Maie (2019, September). Does automaticity moderate different types of L2 knowledge use in grammaticality judgments? An eye-tracking study. Paper presented at <i>Second Language Research Forum 2019</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieSLRF2019.pdf)
 <br>
 <br>
-Maie (2019, March). Demystifying the complexity of individual differences under incidental conditions: A conceptual replication and extension. Paper presented at <i>American Association for Applied Linguistics 2019</i>.
-<br>
-<iframe src="https://drive.google.com/file/d/1N4yhT31C-R50d4DHeNDqp_1fEU9R3kB_/view?usp=sharing" width="100%" height="300"></iframe>
+Maie (2019, March). Demystifying the complexity of individual differences under incidental conditions: A conceptual replication and extension. Paper presented at <i>American Association for Applied Linguistics 2019</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieAAAL2019.pdf)
 <br>
 <br>
-Maie & DeKeyser (2018, September). Beyond boundaries: Combining methodological approaches to research on acquisition of explicit and implicit knowledge under an incidental condition. Paper presented at <i>Second Language Research Forum 2018</i>. 
-<br>
-<iframe src="https://drive.google.com/file/d/1IXsrRiQpQ4Xnz748il_q65nULi7WAJin/view?usp=sharing" width="100%" height="300"></iframe>
+Maie & DeKeyser (2018, September). Beyond boundaries: Combining methodological approaches to research on acquisition of explicit and implicit knowledge under an incidental condition. Paper presented at <i>Second Language Research Forum 2018</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieDeKeyserSLRF2018.pdf)
 <br>
 <br>
-Maie & Salen (2018, March). Task-based analysis of target discourse in media weather forecasts. Paper presented at <i>TESOL 2018 International Convention & English Language Expo.</i>
-<br>
-<iframe src="https://drive.google.com/file/d/1JQfz4Dm_taJjJ_Px_FKmiZfpwEpkOs6m/view?usp=sharing" width="100%" height="300"></iframe>
-<br>
+Maie & Salen (2018, March). Task-based analysis of target discourse in media weather forecasts. Paper presented at <i>TESOL 2018 International Convention & English Language Expo.</i> [[Download]](https://github.com/maieryo/research/blob/presentations/MaieSalenTESOL2018.pdf)
 <br>
