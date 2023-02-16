@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 <img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/KimEtAl2022.png" width="730" height="410">
-Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf)
+Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>. [Download](https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf)
 <br>
 <br>
 <img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieAAAL2021.png" width="730" height="480">
