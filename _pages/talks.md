@@ -11,7 +11,7 @@ Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awarene
 <br>
 Maie (2021, March). Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data. Paper presented for <i>American Association for Applied Linguistics 2021</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieAAAL2021v2.pdf)
 <br>
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieAAAL2021.png" width="730" height="410">
+<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieAAAL2021.png" width="730" height="510">
 <br>
 <br>
 Maie (2020, November). Testing skill acquisition stages in language learning: A case of vocabulary learning and practice. Invited to the PhD student workshop in <i>ESRC-JSLARF Symposium 2020</i>.
