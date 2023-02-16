@@ -9,7 +9,7 @@ author_profile: true
 Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf)
 <br>
 <br>
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieAAAL2021.png" width="730" height="480">
+<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/KimEtAl2022.png" width="730" height="480">
 <br>
 Maie (2021, March). Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data. Paper presented for <i>American Association for Applied Linguistics 2021</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieAAAL2021v2.pdf)
 <br>
