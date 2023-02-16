@@ -5,29 +5,35 @@ permalink: /talks/
 author_profile: true
 ---
 <img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/KimEtAl2022.png" width="730" height="410">
-Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>. [Download](https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf)
+<br>
+Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf)
 <br>
 <br>
 <img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieAAAL2021.png" width="730" height="480">
+<br>
 Maie (2021, March). Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data. Paper presented for <i>American Association for Applied Linguistics 2021</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieAAAL2021v2.pdf)
 <br>
 <br>
 <img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieJSLARF2020.png" width="730" height="520">
-Maie (2020, November). Testing skill acquisition stages in language learning: A case of vocabulary learning and practice. Invited to the PhD student workshop in <i>ESRC-JSLARF Symposium 2020</i>.  [[Download]](https://github.com/maieryo/research/blob/presentations/MaieJSLARF2020.pdf)
+<br>
+Maie (2020, November). Testing skill acquisition stages in language learning: A case of vocabulary learning and practice. Invited to the PhD student workshop in <i>ESRC-JSLARF Symposium 2020</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieJSLARF2020.pdf)
 <br>
 <br>
-Maie & Ma (2020, September). Investigating the relationship between TOEFL scores and international students’ academic success: A meta-analysis. Paper presented at <i>Second Language Research Forum 2020</i>.
-<iframe src="[https://drive.google.com/file/d/1tJQnCg4GGiE5dGfl0KD3-VufS96GVh_q/view?usp=sharing](https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieAAAL2021.png)" width="100%" height="300"></iframe>
+<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieMaSLRF2020.png" width="730" height="520">
 <br>
+Maie & Ma (2020, September). Investigating the relationship between TOEFL scores and international students’ academic success: A meta-analysis. Paper presented at <i>Second Language Research Forum 2020</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieMaSLRF2020.pdf)
+<br>
+<br>
+<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_talks/MaieMaSLRF2020.png" width="730" height="520">
 <br>
 Maie (2020, March). Eyeing acceptability judgment task: Automaticity moderates different L2 knowledge and processing.Paper accepted for <i>American Association for Applied Linguistics 2020</i>.
 <br>
 <iframe src="https://drive.google.com/file/d/1XYbYHSiXCwOXTPWUHc4yn-w4AjN9v6Tk/view?usp=sharing" width="100%" height="300"></iframe>
 <br>
 <br>
-Maie (2019, September). Does automaticity moderate different types of L2 knowledge use in grammaticality judgments? An eye-tracking study. Paper presented at <i>Second Language Research Forum 2019</i>.
+
 <br>
-<iframe src="https://drive.google.com/file/d/1t198TWe7Foc7ydKvw207Ks_gboihZmER/view?usp=sharing" width="100%" height="300"></iframe>
+Maie (2019, September). Does automaticity moderate different types of L2 knowledge use in grammaticality judgments? An eye-tracking study. Paper presented at <i>Second Language Research Forum 2019</i>.
 <br>
 <br>
 Maie (2019, March). Demystifying the complexity of individual differences under incidental conditions: A conceptual replication and extension. Paper presented at <i>American Association for Applied Linguistics 2019</i>.
