@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br>
 <br>
-Kremmel, Chen, Gao, Hui, Ma, Maie, Puimège, & Rogers (2023, March). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). <i>American Association for Applied Linguistics 2023</i>. [[Download]]
+Kremmel, Chen, Gao, Hui, Ma, Maie, Puimège, & Rogers (2023, March). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). <i>American Association for Applied Linguistics 2023</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/KremmelEtAlAAAL2023.pdf)
 <br>
 <br>
 Kim, Maie, Suga, Miller & Hui (2022, March). Revisiting learning without awareness with academic and non-academic samples: An individual differecnes study. Paper presentedat <i>American Association for Applied Linguistics 2022</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/KimEtAlAAAL2022.pdf)
