@@ -9,7 +9,7 @@ redirect_from:
 My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf)
 
 # Current Positions
-**1/2023 – Onward**: Project Assistant Professor, the School of Engineering, University of Tokyo<br>
+**1/2023 – Onward**: Project Assistant Professor, the School of Engineering, The University of Tokyo<br>
 
 # Education
 **2018 – 2022** (Expected)<br>
@@ -63,7 +63,7 @@ Awarded $4,500 as stipend for Summer 2020
 - JPN101 Elementary Japanese I (UGR)
 - JPN102 Elementary Japanese II (UGR)
 
-## University of Tokyo
+## The University of Tokyo
 - Advanced Academic Writing (GR)
 - Advanced Academic Presentation (GR)
 - UGR = Undergraduate; GR = Graduate
