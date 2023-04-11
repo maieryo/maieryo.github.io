@@ -51,6 +51,7 @@ Awarded $4,500 as stipend for Summer 2020
 ## The University of Tokyo
 - Advanced Academic Writing (GR)
 - Advanced Academic Presentation (GR)
+- Workshop towards Communicating Engineers (UGR)
 - UGR = Undergraduate; GR = Graduate
 
 # Referees
