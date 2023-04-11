@@ -40,7 +40,7 @@ Awarded $4,500 as stipend for Summer 2020
 # Awards
 ## 2022
 Dean's Award (School of Engineering, The University of Tokyo)<br>
-Awarded from the Dean of the School of Engineering at the University of Tokyo for significant contributions to education and teaching of graduate and undergraduate students in the Scool of Engineering at the University of Tokyo. Received as part of Global Education Team within Division of Global Education in Institute for Innovation in International Engineering Education (Professor Kazuhiro Takanabe as the lead).
+Awarded from the Dean of the School of Engineering at the University of Tokyo for significant contributions to education and teaching of graduate and undergraduate students in the School of Engineering at the University of Tokyo. Received as part of Global Education Team within Division of Global Education in Institute for Innovation in International Engineering Education (Professor Kazuhiro Takanabe as the lead).
 
 ## 2021
 Graduate Student Award (Educational Testing Service Award)<br>
