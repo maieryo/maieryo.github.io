@@ -10,7 +10,8 @@ My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/C
 
 # Current Positions
 **1/2023 – Onward**: Project Assistant Professor, the School of Engineering, The University of Tokyo<br>
-- I work as a faculty member in the Institute for Innovation in International Engineering Education. Please visit our [website](https://global-eng.t.u-tokyo.ac.jp/en/) for more information.
+
+I work as a faculty member in the Institute for Innovation in International Engineering Education. Please visit our [website](https://global-eng.t.u-tokyo.ac.jp/en/) for more information.
 
 # Research
 ## Awards
