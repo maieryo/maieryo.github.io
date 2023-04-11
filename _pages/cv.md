@@ -11,23 +11,6 @@ My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/C
 # Current Positions
 **1/2023 – Onward**: Project Assistant Professor, the School of Engineering, The University of Tokyo<br>
 
-# Education
-**2018 – 2022** (Expected)<br>
-Ph.D. in Second Language Studies<br>
-Michigan State University<br>
-<br>
-**2016 – 2018**<br>
-M.A. in Second Language Acquisition<br>
-University of Maryland, College Park<br>
-
-**2014 – 2015**<br>
-Exchange and transfer student in Psychology and Linguistics<br>
-Dartmouth College<br>
-
-**2012 – 2016**<br>
-B.A. in English and Language Science<br>
-Kanda University of International Studies, Chiba, Japan<br>
-
 # Research
 ## Awards
 **2021**<br>
