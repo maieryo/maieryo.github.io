@@ -8,6 +8,8 @@ redirect_from:
 ---
 My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf)
 
+<iframe src="https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf" width="100%" height="1200"></iframe>
+
 # Current Positions
 **1/2023 – Onward**: Project Assistant Professor, the School of Engineering, The University of Tokyo<br>
 
