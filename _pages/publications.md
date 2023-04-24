@@ -26,7 +26,5 @@ Non-Refereed Articles
 
 Thesis and Dissertation
 ======
-**Ph.D.**
 * Maie, R. (2022). *Testing the three-stage model of second language skill acquisition*. (Doctoral Dissertation, Michigan State University)[[Download]](https://github.com/maieryo/research/blob/papers/RyoMaiePhDSLS.pdf)
-**M.A.**
 * Maie, R. (2018). *Explicit and implicit cognitive aptitudes, L2 outcome measures, and learning of morphosyntax under an incidental condition*. (Master's Thesis, University of Maryland, College Park)[[Download]](https://drum.lib.umd.edu/handle/1903/21064)
