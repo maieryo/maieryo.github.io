@@ -24,3 +24,7 @@ Non-Refereed Articles
 * Suzuki, Y., Maie, R, & Suga, K. (2020). Grammar instruction in the midst of COVID-19: Diversifying grammar instruction and activity. <i>English Education</i>, (9).] (Japanese) [[Link]](https://www.taishukan.co.jp/book/b525175.html)
 * Maie, R. (2019). Interview with Nick C. Ellis. <i>Working Papers in SLS</i>, 10.  [[Link]](https://hcommons.org/deposits/item/hc:45843) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/InterviewWithNickCEllis.pdf)
 
+Thesis and Dissertation
+======
+* Maie, R. (2022). *Testing the three-stage model of second language skill acquisition*. (Doctoral Dissertation, Michigan State University)[[Download]](https://github.com/maieryo/research/blob/papers/RyoMaiePhDSLS.pdf)
+* Maie, R. (2018). *Explicit and implicit cognitive aptitudes, L2 outcome measures, and learning of morphosyntax under an incidental condition*. (Master's Thesis, University of Maryland, College Park)[[Download]](https://drum.lib.umd.edu/handle/1903/21064)
