@@ -8,7 +8,7 @@ author_profile: true
 Manuscripts in progress
 ======
 * Vocabulary Researchers. (2024, IPA). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). In-principle acceptance for a special issue in *Studies in Second Language Acquisition*. Authors (in alphabetical order): Yingzhao Chen, Jianwu Gao, Bronson Hui, Benjamin Kremmel, Ryo Maie, Shuang Ma, Eva Puimège, & John Rogers.
-* Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2023, IPA). Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. Stage 2, received in-principle acceptance for a special issue in <i>Language Learning</i>.
+* Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2023, IPA). Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. Received in-principle acceptance for a special issue in <i>Language Learning</i>.
 
 Published Articles
 ======
