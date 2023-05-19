@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf)
+## My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf)
 
 # Current Positions
 **1/2023 – Onward**: Project Assistant Professor, the School of Engineering, The University of Tokyo<br>
@@ -58,15 +58,15 @@ Awardrd from American Association for *Applied Linguistics for the study Arbitra
 - FEN-CO3007S2: Workshop towards Communicating Engineers (UGR)
 - UGR = Undergraduate; GR = Graduate
 
-# Referees
-**Aline Godfroid**<br>
+# Professional Reference List
+**Dr. Aline Godfroid**<br>
 Associate Professor of Second Language Studies<br>
 B253 Wells Hall, 619 Red Cedar Road<br>
 Michigan State University<br>
 East Lansing, MI 48824-1027<br>
 Email: godfroid@msu.edu<br>
 
-**Robert M. De Keyser**<br>
+**Dr. Robert M. De Keyser**<br>
 Professor Emeritus of Second Language Acquisition<br>
 University of Maryland, College Park<br>
 Email: rdk@umd.edu<br>
