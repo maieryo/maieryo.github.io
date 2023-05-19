@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 # Curriculum Vitae
+<br>
 
 ### My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf)
 <br>
