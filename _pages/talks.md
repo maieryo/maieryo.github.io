@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br>
 <br>
-Maie (2023, June). Testing the three stage model of L2 skill acquisition. <i>Annual Symposium of Japan Second Language Acquisition Research Foru </i>. [[Download]](https://github.com/maieryo/research/blob/presentations/JSLARF07012023.pdf)
+Maie (2023, June). Testing the three stage model of L2 skill acquisition. <i>2023 Symposium of Japan Second Language Acquisition Research Forum </i>. [[Download]](https://github.com/maieryo/research/blob/presentations/JSLARF07012023.pdf)
 <br>
 <br>
 Kremmel, Chen, Gao, Hui, Ma, Maie, Puimège, & Rogers (2023, March). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). <i>American Association for Applied Linguistics 2023</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/KremmelEtAlAAAL2023.pdf)
