@@ -4,7 +4,7 @@ title: "Statistics"
 permalink: /statmodeling/
 author_profile: true
 ---
-# Open Data
+## Open Data
 Life is full of statistical data, so why don't we take advantage of it? As I live my life, I try to collect as much data as possible whenever I realize there is an opportunity. Here is a list of data I have collected, which may be of use when in need of data to practice skills for statistical analysis or to teach a course for applied statistics.
 <br>
 <br>
@@ -19,6 +19,7 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 <img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/MonthsGAM.png" width="600">
 <br>
 <br>
+
 **[Sleep data]** (https://github.com/maieryo/research/tree/sleep)<br>
 For 128 days, I collected my sleep data using Fitbit Charge 5 and just made the data publicly available. The file contains the following seven variables. I have additional data regarding which sleep level I was in (a) light sleep, (b) deep sleep, and (c) REM sleep, which to be added soon. 
 1. Date = The dates of data points
@@ -28,8 +29,9 @@ For 128 days, I collected my sleep data using Fitbit Charge 5 and just made the 
 5. Weekend = Whether it was on the weekend (Saturday or Sunday)
 6. Score = Fitbit Charge 5 gives the score for each sleep event
 7. Teaching = Whether I had teaching on that day
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/SleepDay.jpeg" width="600">
+<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/SleepDay.jpeg" width="400">
 <br>
+
 ## J-SLARF Stats SIG
 Japan Second Language Acquisition Forum has a special interest group on applied statistics, especially to be used in L2 research. 
 
