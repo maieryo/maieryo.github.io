@@ -9,7 +9,7 @@ author_profile: true
 Life is full of statistical data, so why don't we take advantage of it? As I live my life, I try to collect as much data as possible whenever I realize there is an opportunity. Here is a list of data I have collected, which may be of use when in need of data to practice skills for statistical analysis or to teach a course for applied statistics.
 <br>
 
-[Weight-loss data](https://github.com/maieryo/research/tree/weightloss)
+[Weight-loss data](https://github.com/maieryo/research/tree/weightloss)<br>
 Intermittently in my life, I have tried to lose weight to get into shape. This is a dataset from one of my weight-loss streaks in 2020-2021. There are six variables in the datset.
 1. Date = The dates of data points
 2. kg = Actual weight in kilograms
