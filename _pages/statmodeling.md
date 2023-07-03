@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Statistics"
-permalink: /Stats/
+permalink: /statmodeling/
 author_profile: true
 ---
 
