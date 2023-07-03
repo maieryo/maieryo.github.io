@@ -17,7 +17,6 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 4. Day = Days since the first day
 5. Colombia = I went to a trip to Colombia between 2020-2021. This variable refers to whether the dates were before or after the trip
 6. Month = The month of the dates.
-
 <br>
 
 [Sleep data](https://github.com/maieryo/research/tree/sleep)<br>
@@ -29,7 +28,6 @@ For 128 days, I collected my sleep data using Fitbit Charge 5 and just made the 
 5. Weekend = Whether it was on the weekend (Saturday or Sunday)
 6. Score = Fitbit Charge 5 gives the score for each sleep event
 7. Teaching = Whether I had teaching on that day
-
 <br>
 
 ## J-SLARF Stats SIG
