@@ -8,9 +8,8 @@ author_profile: true
 ## Open Data
 Life is full of statistical data, so why don't we take advantage of it? As I live my life, I try to collect as much data as possible whenever I realize there is an opportunity. Here is a list of data I have collected, which may be of use when in need of data to practice skills for statistical analysis or to teach a course for applied statistics.
 <br>
-<br>
 
-[Weight-loss data](https://github.com/maieryo/research/tree/weightloss) <br>
+[Weight-loss data](https://github.com/maieryo/research/tree/weightloss)
 Intermittently in my life, I have tried to lose weight to get into shape. This is a dataset from one of my weight-loss streaks in 2020-2021. There are six variables in the datset.
 1. Date = The dates of data points
 2. kg = Actual weight in kilograms
@@ -19,9 +18,11 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 5. Colombia = I went to a trip to Colombia between 2020-2021. This variable refers to whether the dates were before or after the trip
 6. Month = The month of the dates.
 
+![Book logo]([/least-github-pages/assets/logo.png]())
 <img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/MonthsGAM.png" width="600">
 <br>
-
+![GAMWeightLosss](https://github.com/maieryo/maieryo.github.io/blob/master/_pages/MonthsGAM.png)
+<br>
 [Sleep data](https://github.com/maieryo/research/tree/sleep)<br>
 For 128 days, I collected my sleep data using Fitbit Charge 5 and just made the data publicly available. The file contains the following seven variables. I have additional data regarding which sleep level I was in (a) light sleep, (b) deep sleep, and (c) REM sleep, which to be added soon. 
 1. Date = The dates of data points
