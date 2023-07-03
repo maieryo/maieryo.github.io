@@ -21,7 +21,7 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 <br>
 <br>
 
-**[Sleep data]** (https://github.com/maieryo/research/tree/sleep)<br>
+<b>[Sleep data]</b> (https://github.com/maieryo/research/tree/sleep)<br>
 For 128 days, I collected my sleep data using Fitbit Charge 5 and just made the data publicly available. The file contains the following seven variables. I have additional data regarding which sleep level I was in (a) light sleep, (b) deep sleep, and (c) REM sleep, which to be added soon. 
 1. Date = The dates of data points
 2. Time = How long I slept in minutes
