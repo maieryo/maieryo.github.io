@@ -18,11 +18,11 @@ Single line blockquote:
 ## J-SLARF Stats SIG
 Japan Second Language Acquisition Forum
 
-| History    | Year        | Topic                                                |
-| --------   | ------------| ------------------------------------------------------------ |
-| Season 1   | 2019-2020   | Multilevel Modeling                                                        |
-| Season 2   | 2020-2021   | Masaki E                          |
-| Season 3   | 2021-2022   | Description of the item in the list                          |
+| History    | Year        | Topic                          |Textbook   |
+| --------   | ------------| -------------------------------|------------|
+| Season 1   | 2019-2020   | Multilevel Modeling            |Gelman, A., & Hill, J. (2007). *Data analysis using regression and multilevel/hierarchical models*. New York: Cambridge University Press.   |
+| Season 2   | 2020-2021   | Bayesian Data Analysis   |McElreath, R. (2020). *Statistical rethinking: A Bayesian course with examples in R and Stan* (2nd ed.). Boca Raton, FL: CRC Press.   |
+| Season 3   | 2021-2022   | Structural Equation Modeling   |Kline, R. B. (2016). *Principles and practice of structural equation modeling* (4th ed.). New York: The Guilford Press.   |
 
 
 ## Definition Lists
