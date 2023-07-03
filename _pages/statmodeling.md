@@ -16,8 +16,7 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 5. Colombia = I went to a trip to Colombia between 2020-2021. This variable refers to whether the dates were before or after the trip
 6. Month = The month of the dates.
 <br>
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/MonthsGAM.png" width="400">
-<br>
+<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/MonthsGAM.png" width="600">
 <br>
 <br>
 **[Sleep data]** (https://github.com/maieryo/research/tree/sleep)<br>
@@ -30,7 +29,7 @@ For 128 days, I collected my sleep data using Fitbit Charge 5 and just made the 
 6. Score = Fitbit Charge 5 gives the score for each sleep event
 7. Teaching = Whether I had teaching on that day
 <br>
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/SleepDay.jpeg" width="400">
+<img src="https://github.com/maieryo/maieryo.github.io/blob/master/_pages/SleepDay.jpeg" width="600">
 <br>
 ## J-SLARF Stats SIG
 Japan Second Language Acquisition Forum has a special interest group on applied statistics, especially to be used in L2 research. 
