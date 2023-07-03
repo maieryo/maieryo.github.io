@@ -5,12 +5,9 @@ permalink: /statmodeling/
 author_profile: true
 ---
 # Open Data
-Life is full of statistical data, so why don't we take advantage of it?
+Life is full of statistical data, so why don't we take advantage of it? As I live my life, I try to collect as much data as possible whenever I realize there is an opportunity. Here is a list of data I have collected, which may be of your use when in need of data to practice skills for statistical analysis or to teach a course for applied statistics.
 
 
-Single line blockquote:
-
-> Quotes are cool.
 
 ## J-SLARF Stats SIG
 Japan Second Language Acquisition Forum
