@@ -5,11 +5,8 @@ permalink: /statmodeling/
 author_profile: true
 ---
 # Open Data
-Life is a full
+Life is full of statistical data, so why don't we take advantage of it?
 
-## Header two
-
-## Blockquotes
 
 Single line blockquote:
 
@@ -18,12 +15,12 @@ Single line blockquote:
 ## J-SLARF Stats SIG
 Japan Second Language Acquisition Forum
 
-| History    | Year        | Topic                          |Textbook   |
-| --------   | ------------| -------------------------------|------------|
-| Season 1   | 2019-2020   | Multilevel Modeling            |Gelman, A., & Hill, J. (2007). *Data analysis using regression and multilevel/hierarchical models*. New York: Cambridge University Press.   |
-| Season 2   | 2020-2021   | Bayesian Data Analysis   |McElreath, R. (2020). *Statistical rethinking: A Bayesian course with examples in R and Stan* (2nd ed.). Boca Raton, FL: CRC Press.   |
-| Season 3   | 2021-2022   | Structural Equation Modeling   |Kline, R. B. (2016). *Principles and practice of structural equation modeling* (4th ed.). New York: The Guilford Press.   |
-
+| History | Year        | Topic                          |Textbook   |
+| --------| ------------| -------------------------------|------------|
+| S1      | 2019-2020   | Multilevel Modeling            | Gelman, A., & Hill, J. (2007). *Data analysis using regression and multilevel/hierarchical models*. New York: Cambridge University Press. |
+| S2      | 2020-2021   | Bayesian Data Analysis   | McElreath, R. (2020). *Statistical rethinking: A Bayesian course with examples in R and Stan* (2nd ed.). Boca Raton, FL: CRC Press.          |
+| S3      | 2021-2022   | Structural Equation Modeling   | Kline, R. B. (2016). *Principles and practice of structural equation modeling* (4th ed.). New York: The Guilford Press.                  |
+| S4      | 2023-2024   | Applied Regression Modeling    | Gelman, A., Hill, J., & Vehtari, A. (2020). *Regression and other stories*. New York: Cambriedge University Press.                   |
 
 ## Definition Lists
 
