@@ -30,7 +30,6 @@ d <- read_excel("Weight2020.xlsx") # Load the dataset
 m <- lm(kg ~ Day*Month, d) # Linear model
 summary(m) # See the result
 </pre>
-<br>
 
 | Variable  | Estimate | Std. Error |
 | --------  | ---------| -----------|
@@ -46,6 +45,7 @@ summary(m) # See the result
 | Day:Feb   | -0.000    | 0.012     |
 | Day:March | 0.005     | 0.011     | 
 | Day:May   | -0.026    | 0.043     |
+
 <br>
 
 Additionally, you can also see visualize the predicted values by running the following code. [Here](https://github.com/maieryo/maieryo.github.io/blob/master/_pages/kgMonth.png) is the plot.
