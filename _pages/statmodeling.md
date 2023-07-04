@@ -23,14 +23,39 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 Here is linear regression modeling of the weight loss data. The model regresses `kg` on `Day`, `Month`, and `Colombia`. I also added an interaction of `Day` and `Month`, so the effect of accunulating days can vary among specific months.
 
 <pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
+rm(list=ls()) # Clear R session
+library(readxl) # Read Excel files
+library(emmeans) # 
+
+d <- read_excel("Weight2020.xlsx") # Load the dataset
+m <- lm(kg ~ Day*Month, d) # Linear model
+summary(m) # See the result
 </pre>
+<br>
+
+| Variable  | Estimate | Std. Error |
+| --------  | ---------| -----------|
+| Intercept | 85.518    | 1.000     |
+| Day       | -0.101    | -0.101    |
+| November  | 2.723     | 1.010     |
+| December  | 6.404     | 1.359     |
+| February  | -0.704    | 1.146     |
+| March     | -1.098    | 1.228     |
+| May       | 3.998     | 6.154     |
+| Day:Novem | -0.005    | 0.011     |
+| Day:Decem | -0.144    | 0.024     |
+| Day:Feb   | -0.000    | 0.012     |
+| Day:March | 0.005     | 0.011     | 
+| Day:May   | -0.026    | 0.043     |
+<br>
+
+Additionally, you can also see visualize the predicted values by running the following code.
+<pre>
+plot_model(m, type = "pred",
+           terms = c("Day [all]", "Month")) +
+  theme_bw()
+</pre>
+<br>
 
 [Sleep data](https://github.com/maieryo/research/tree/sleep)<br>
 For 128 days, I collected my sleep data using Fitbit Charge 5 and just made the data publicly available. The file contains the following seven variables. I have additional data regarding which sleep level I was in (a) light sleep, (b) deep sleep, and (c) REM sleep, which to be added soon. 
