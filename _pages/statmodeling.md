@@ -19,6 +19,19 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 6. Month = The month of the dates.
 <br>
 
+### Sample Analysis
+Here is linear regression modeling of the weight loss data. The model regresses `kg` on `Day`, `Month`, and `Colombia`. I also added an interaction of `Day` and `Month`, so the effect of accunulating days can vary among specific months.
+
+<pre>
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+</pre>
+
 [Sleep data](https://github.com/maieryo/research/tree/sleep)<br>
 For 128 days, I collected my sleep data using Fitbit Charge 5 and just made the data publicly available. The file contains the following seven variables. I have additional data regarding which sleep level I was in (a) light sleep, (b) deep sleep, and (c) REM sleep, which to be added soon. 
 1. Date = The dates of data points
