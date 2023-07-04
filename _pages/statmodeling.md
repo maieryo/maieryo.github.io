@@ -24,7 +24,7 @@ Here is linear regression modeling of the weight loss data. The model regresses 
 <pre>
 rm(list=ls()) # Clear R session
 library(readxl) # Read Excel files
-library(emmeans) # 
+library(sjPlot) # Plotting regression model
 
 d <- read_excel("Weight2020.xlsx") # Load the dataset
 m <- lm(kg ~ Day*Month, d) # Linear model
