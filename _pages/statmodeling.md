@@ -17,7 +17,6 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 4. Day = Days since the first day
 5. Colombia = I went to a trip to Colombia between 2020-2021. This variable refers to whether the dates were before or after the trip
 6. Month = The month of the dates.
-<br>
 
 ### Sample Analysis
 Here is linear regression modeling of the weight loss data. The model regresses `kg` on `Day`, `Month`, and `Colombia`. I also added an interaction of `Day` and `Month`, so the effect of accunulating days can vary among specific months.
@@ -49,7 +48,7 @@ summary(m) # See the result
 | Day:May   | -0.026    | 0.043     |
 <br>
 
-Additionally, you can also see visualize the predicted values by running the following code.
+Additionally, you can also see visualize the predicted values by running the following code. [Here](https://github.com/maieryo/maieryo.github.io/blob/master/_pages/kgMonth.png) is the plot.
 <pre>
 plot_model(m, type = "pred",
            terms = c("Day [all]", "Month")) +
