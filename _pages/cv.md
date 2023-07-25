@@ -10,7 +10,7 @@ My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/C
 <br>
 
 # Academic Positions
-**1/2023 – Onward**: Project Assistant Professor, IIIEE, School of Engineering, The University of Tokyo<br>
+**2023 – Onward**: Project Assistant Professor, IIIEE, School of Engineering, The University of Tokyo<br>
 **2022 - 2023**: Senior Academic Specialist, IIIEE, School of Engineering, The University of Tokyo<br>
 **2022 - 2023**: Part-time Lecturer, School of Engineering, IIIEE, The University of Tokyo<br>
 **2021 – 2022**: TA in Second Language Studies program, Department of Linguistics, Languages, and Cultures, Michigan State University<br>
