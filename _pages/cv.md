@@ -11,14 +11,14 @@ My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/C
 
 # Academic Positions
 **1/2023 – Onward**: Project Assistant Professor, IIIEE, School of Engineering, The University of Tokyo<br>
-**2022 - 2023**: Senior Academic Specialist, IIIEE, School of Engineering, The University of Tokyo
-**2022 - 2023**: Part-time Lecturer, School of Engineering, IIIEE, The University of Tokyo
-**2021 – 2022**: TA in Second Language Studies program, Department of Linguistics, Languages, and Cultures, Michigan State University
-**2020 - 2021**: TA in Japanese program, Department of Linguistics, Languages, and Cultures, Michigan State University
-**2018 - 2020**: RA in Second Language Studies program, Michigan State University
-**2017 - 2018**: TA in Language House Program, University of Maryland, College Park
-**2017 - 2018**: RA in Academic Success Center, Kanda University of Int’l Studies
-**2016 - 2017**: RA at Center for Foreign Language, Kanda University of Int’l Studies
+**2022 - 2023**: Senior Academic Specialist, IIIEE, School of Engineering, The University of Tokyo<br>
+**2022 - 2023**: Part-time Lecturer, School of Engineering, IIIEE, The University of Tokyo<br>
+**2021 – 2022**: TA in Second Language Studies program, Department of Linguistics, Languages, and Cultures, Michigan State University<br>
+**2020 - 2021**: TA in Japanese program, Department of Linguistics, Languages, and Cultures, Michigan State University<br>
+**2018 - 2020**: RA in Second Language Studies program, Michigan State University<br>
+**2017 - 2018**: TA in Language House Program, University of Maryland, College Park<br>
+**2017 - 2018**: RA in Academic Success Center, Kanda University of Int’l Studies<br>
+**2016 - 2017**: RA at Center for Foreign Language, Kanda University of Int’l Studies<br>
 
 # Professional Reference List
 **Dr. Aline Godfroid**<br>
