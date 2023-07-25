@@ -9,55 +9,16 @@ redirect_from:
 My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/CV_RyoMaie.pdf)
 <br>
 
-# Current Positions
-**1/2023 – Onward**: Project Assistant Professor, the School of Engineering, The University of Tokyo<br>
-
-- I work as a faculty member in the Institute for Innovation in International Engineering Education. Please visit our [website](https://global-eng.t.u-tokyo.ac.jp/en/) for more information.
-
-# Research
-## Grants and Fellowship
-### External
-**2022**<br>
-NFMLTA-MLJ Dissertation Writing Support Grants<br>
-Awarded $2,500 for the doctoral dissertation study *Testing the three-stage model of second language skill acquisition*
-
-**2022**<br>
-National Science Foundation, Doctoral Dissertation Improvement Grants<br>
-Awarded $18,686 for the doctoral dissertation study *Testing the three-stage model of second language skill acquisition*
-
-**2021**<br>
-Graduate Student Award (Educational Testing Service Award)<br>
-Awarded $500 from American Association for Applied Linguistics for the study *Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data*
-
-### Internal
-**2021**<br>
-Michigan State University, College of Arts and Letters, Summer Fellowship<br>
-Awarded $4,500 as stipend for Summer 2021
-
-**2020**<br>
-Michigan State University, College of Arts and Letters, Summer Fellowship<br>
-Awarded $4,500 as stipend for Summer 2020
-
-# Awards
-## 2022
-Dean's Award (School of Engineering, The University of Tokyo)<br>
-Awarded from the Dean of the School of Engineering at the University of Tokyo for significant contributions to education and teaching of graduate and undergraduate students in the School of Engineering at the University of Tokyo. Received as part of Global Education Team within Division of Global Education in Institute for Innovation in International Engineering Education (Professor Kazuhiro Takanabe as the lead).
-
-## 2021
-Graduate Student Award (Educational Testing Service Award)<br>
-Awardrd from American Association for *Applied Linguistics for the study Arbitrary choices, arbitrary results: A multiverse analysis of L2 reaction time data*
-
-# Teaching
-## Michigan State University
-- LLT306: Methods of Teaching Adult and Community English to Speakers of Other Languages
-- JPN101: Elementary Japanese I (UGR)
-- JPN102: Elementary Japanese II (UGR)
-
-## The University of Tokyo
-- GEN-CO6010L3: Advanced Academic Writing (GR)
-- GEN-CO5011P3: Advanced Academic Presentation (GR)
-- FEN-CO3007S2: Workshop towards Communicating Engineers (UGR)
-- UGR = Undergraduate; GR = Graduate
+# Academic Positions
+**1/2023 – Onward**: Project Assistant Professor, IIIEE, School of Engineering, The University of Tokyo<br>
+**2022 - 2023**: Senior Academic Specialist, IIIEE, School of Engineering, The University of Tokyo
+**2022 - 2023**: Part-time Lecturer, School of Engineering, IIIEE, The University of Tokyo
+**2021 – 2022**: TA in Second Language Studies program, Department of Linguistics, Languages, and Cultures, Michigan State University
+**2020 - 2021**: TA in Japanese program, Department of Linguistics, Languages, and Cultures, Michigan State University
+**2018 - 2020**: RA in Second Language Studies program, Michigan State University
+**2017 - 2018**: TA in Language House Program, University of Maryland, College Park
+**2017 - 2018**: RA in Academic Success Center, Kanda University of Int’l Studies
+**2016 - 2017**: RA at Center for Foreign Language, Kanda University of Int’l Studies
 
 # Professional Reference List
 **Dr. Aline Godfroid**<br>
