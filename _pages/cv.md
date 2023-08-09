@@ -10,7 +10,7 @@ My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/C
 <br>
 
 # Academic Positions
-**2023 – Onward**: Project Assistant Professor, IIIEE, School of Engineering, The University of Tokyo<br>
+**2023 – Present**: Project Assistant Professor, IIIEE, School of Engineering, The University of Tokyo<br>
 **2022 – 2023**: Senior Academic Specialist, IIIEE, School of Engineering, The University of Tokyo<br>
 **2022 – 2023**: Part-time Lecturer, School of Engineering, IIIEE, The University of Tokyo<br>
 **2021 – 2022**: TA in Second Language Studies program, Department of Linguistics, Languages, and Cultures, Michigan State University<br>
@@ -22,7 +22,7 @@ My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/C
 
 # Professional Reference List
 **Dr. Aline Godfroid**<br>
-Associate Professor of Second Language Studies<br>
+Professor of Second Language Studies<br>
 B253 Wells Hall, 619 Red Cedar Road<br>
 Michigan State University<br>
 East Lansing, MI 48824-1027<br>
