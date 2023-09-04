@@ -4,6 +4,8 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+Maie & Godfroid (2023, August). Testing the three stage model of L2 skill acquisition. <i>The 32nd Conference of the European Second Language Association</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieGodfroidEuroSLA32.pdf)
 <br>
 <br>
 Maie (2023, June). Testing the three stage model of L2 skill acquisition. <i>2023 Symposium of Japan Second Language Acquisition Research Forum </i>. [[Download]](https://github.com/maieryo/research/blob/presentations/JSLARF07012023.pdf)
