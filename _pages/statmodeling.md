@@ -1,4 +1,4 @@
-![kg](https://github.com/maieryo/maieryo.github.io/assets/68858494/0785955f-b822-4e30-9e13-59335eacb845)---
+---
 layout: archive
 title: "Statistics"
 permalink: /statmodeling/
