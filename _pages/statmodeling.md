@@ -48,6 +48,7 @@ Here is linear regression modeling of the weight loss data. The model regresses 
 
 <br>
 You can also visualize the data using the following code:<br>
+
 `d$Month <- factor(d$Month, levels = c("November", "December", "February", "March", "April", "May"))` <br>
 `ggplot(d, aes(x = Day, y = kg, color = Month)) +` <br>
  `geom_point() +` <br>
