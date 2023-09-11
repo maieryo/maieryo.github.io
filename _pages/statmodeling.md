@@ -49,16 +49,16 @@ Here is linear regression modeling of the weight loss data. The model regresses 
 <br>
 You can also visualize the data using the following code:<br>
 `d$Month <- factor(d$Month, levels = c("November", "December", "February", "March", "April", "May"))` <br>
-`ggplot(d, aes(x = Day, y = kg, color = Month)) + <br>
-  geom_point()  + <br>
-  geom_smooth(method = "lm") + <br>
-  xlab("Weights in kilograms") + <br>
-  ylab("Day (1-145)") + <br>
-  scale_y_continuous(breaks = seq(70, 90, 2.5), limits = c(70, 90)) + <br>
-  scale_x_continuous(breaks = seq(0, 145, 10), limits = c(0, 145)) + <br>
-  theme_bw()` <br>
+`ggplot(d, aes(x = Day, y = kg, color = Month)) +` <br>
+ `geom_point() +` <br>
+ `geom_smooth(method = "lm") +` <br>
+ `xlab("Weights in kilograms") +` <br>
+ `ylab("Day (1-145)") +` <br>
+ `scale_y_continuous(breaks = seq(70, 90, 2.5), limits = c(70, 90)) +` <br>
+ `scale_x_continuous(breaks = seq(0, 145, 10), limits = c(0, 145)) +` <br>
+ `theme_bw()` <br>
 　<br>
-![kg]([https://github.com/maieryo/maieryo.github.io/blob/master/assets/kg.png))
+![kg](https://github.com/maieryo/maieryo.github.io/assets/68858494/108afd2b-0347-4c8f-b649-e1455a6867d6)
 <br>
 
 [Sleep data](https://github.com/maieryo/research/tree/sleep)<br>
