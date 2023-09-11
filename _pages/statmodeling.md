@@ -58,7 +58,7 @@ You can also visualize the data using the following code:
   scale_x_continuous(breaks = seq(0, 145, 10), limits = c(0, 145)) +
   theme_bw()`
 
-![kg](https://github.com/maieryo/maieryo.github.io/assets/kg.png)
+![kg]([https://github.com/maieryo/maieryo.github.io/assets/kg.png](https://github.com/maieryo/maieryo.github.io/blob/master/assets/kg.png))
 
 <br>
 
