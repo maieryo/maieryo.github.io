@@ -57,9 +57,8 @@ You can also visualize the data using the following code:<br>
   scale_y_continuous(breaks = seq(70, 90, 2.5), limits = c(70, 90)) + <br>
   scale_x_continuous(breaks = seq(0, 145, 10), limits = c(0, 145)) + <br>
   theme_bw()` <br>
-
+　<br>
 ![kg]([https://github.com/maieryo/maieryo.github.io/blob/master/assets/kg.png))
-
 <br>
 
 [Sleep data](https://github.com/maieryo/research/tree/sleep)<br>
