@@ -22,13 +22,14 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 Here is linear regression modeling of the weight loss data. The model regresses `kg` on `Day`, `Month`, and `Colombia`. I also added an interaction of `Day` and `Month`, so the effect of accumulating days can vary among specific months.
 
 
-`rm(list=ls()) # Clear R session`
+`rm(list=ls()) # Clear R session` <br>
 `library(readxl) # Read Excel files`
-`library(sjPlot) # Plotting regression model`
-
-`d <- read_excel("Weight2020.xlsx") # Load the dataset`
-`m <- lm(kg ~ Day*Month, d) # Linear model`
-`summary(m) # See the result`
+`library(sjPlot) # Plotting regression model`　<br>
+`library(ggplot2) # Plotting in general`　<br>
+<br>
+`d <- read_excel("Weight2020.xlsx") # Load the dataset`　<br>
+`m <- lm(kg ~ Day*Month, d) # Linear model`　<br>
+`summary(m) # See the result`　<br>
 
 
 | Variable  | Estimate | Std. Error |
@@ -48,12 +49,9 @@ Here is linear regression modeling of the weight loss data. The model regresses 
 
 <br>
 
-Additionally, you can also see visualize the predicted values by running the following code. [Here](https://github.com/maieryo/maieryo.github.io/blob/master/_pages/kgMonth.png) is the plot.
-<pre>
-plot_model(m, type = "pred",
-           terms = c("Day [all]", "Month")) +
-  theme_bw()
-</pre>
+- Since
+
+
 <br>
 
 [Sleep data](https://github.com/maieryo/research/tree/sleep)<br>
