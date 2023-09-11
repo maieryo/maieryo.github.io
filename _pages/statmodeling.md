@@ -23,7 +23,7 @@ Here is linear regression modeling of the weight loss data. The model regresses 
 
 
 `rm(list=ls()) # Clear R session` <br>
-`library(readxl) # Read Excel files`
+`library(readxl) # Read Excel files`　<br>
 `library(sjPlot) # Plotting regression model`　<br>
 `library(ggplot2) # Plotting in general`　<br>
 <br>
