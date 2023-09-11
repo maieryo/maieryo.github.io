@@ -47,8 +47,18 @@ Here is linear regression modeling of the weight loss data. The model regresses 
 | Day:May   | -0.026    | 0.043     |
 
 <br>
+You can also visualize the data using the following code:
+`d$Month <- factor(d$Month, levels = c("November", "December", "February", "March", "April", "May"))`
+`ggplot(d, aes(x = Day, y = kg, color = Month)) + 
+  geom_point()  + 
+  geom_smooth(method = "lm") + 
+  xlab("Weights in kilograms") +
+  ylab("Day (1-145)") +
+  scale_y_continuous(breaks = seq(70, 90, 2.5), limits = c(70, 90)) +
+  scale_x_continuous(breaks = seq(0, 145, 10), limits = c(0, 145)) +
+  theme_bw()`
 
-![kg](https://github.com/maieryo/maieryo.github.io/assets/68858494/00cc866e-e657-4b28-a59b-1049b5c8826b)
+![kg](https://github.com/maieryo/maieryo.github.io/assets/kg.png)
 
 <br>
 
