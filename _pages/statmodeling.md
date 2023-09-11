@@ -1,4 +1,4 @@
----
+![kg](https://github.com/maieryo/maieryo.github.io/assets/68858494/0785955f-b822-4e30-9e13-59335eacb845)---
 layout: archive
 title: "Statistics"
 permalink: /statmodeling/
@@ -20,7 +20,6 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 
 ### Sample Analysis
 Here is linear regression modeling of the weight loss data. The model regresses `kg` on `Day`, `Month`, and `Colombia`. I also added an interaction of `Day` and `Month`, so the effect of accumulating days can vary among specific months.
-
 
 `rm(list=ls()) # Clear R session` <br>
 `library(readxl) # Read Excel files`　<br>
@@ -49,8 +48,7 @@ Here is linear regression modeling of the weight loss data. The model regresses 
 
 <br>
 
-- Since
-
+![kg](https://github.com/maieryo/maieryo.github.io/assets/68858494/00cc866e-e657-4b28-a59b-1049b5c8826b)
 
 <br>
 
