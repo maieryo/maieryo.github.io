@@ -19,17 +19,17 @@ Intermittently in my life, I have tried to lose weight to get into shape. This i
 6. Month = The month of the dates.
 
 ### Sample Analysis
-Here is linear regression modeling of the weight loss data. The model regresses `kg` on `Day`, `Month`, and `Colombia`. I also added an interaction of `Day` and `Month`, so the effect of accunulating days can vary among specific months.
+Here is linear regression modeling of the weight loss data. The model regresses `kg` on `Day`, `Month`, and `Colombia`. I also added an interaction of `Day` and `Month`, so the effect of accumulating days can vary among specific months.
 
-<pre>
-rm(list=ls()) # Clear R session
-library(readxl) # Read Excel files
-library(sjPlot) # Plotting regression model
 
-d <- read_excel("Weight2020.xlsx") # Load the dataset
-m <- lm(kg ~ Day*Month, d) # Linear model
-summary(m) # See the result
-</pre>
+`rm(list=ls()) # Clear R session`
+`library(readxl) # Read Excel files`
+`library(sjPlot) # Plotting regression model`
+
+`d <- read_excel("Weight2020.xlsx") # Load the dataset`
+`m <- lm(kg ~ Day*Month, d) # Linear model`
+`summary(m) # See the result`
+
 
 | Variable  | Estimate | Std. Error |
 | --------  | ---------| -----------|
