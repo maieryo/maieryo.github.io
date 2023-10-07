@@ -31,3 +31,8 @@ Language Teaching
 Language Testing and Assessment
 ======
 * Maie & Ma (2020, September). Investigating the relationship between TOEFL scores and international students’ academic success: A meta-analysis. Paper presented at <i>Second Language Research Forum 2020</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieMaSLRF2020.pdf)
+
+Others
+======
+* Maie Y Yi. (2023, October). Individual differences in L2 intuitions of phrasal frequency and association strength. Presented at <i>2023 Vocabulary SIG Symposium/i>. [[Download]]
+
