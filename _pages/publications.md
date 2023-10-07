@@ -9,7 +9,6 @@ Manuscripts in Progress (IPA)
 ======
 * Maie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in L2 research. *Journal name blindd for peer review*. [[Abstract]](https://github.com/maieryo/research/blob/papers/RMAL2024SI_MaieEguchiUchihara.pdf)
 * TwiLex Group. (2024, IPA). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). In-principle acceptance for a special issue in *Studies in Second Language Acquisition*. Authors (in alphabetical order): Yingzhao Chen, Jianwu Gao, Bronson Hui, Benjamin Kremmel, Ryo Maie, Shuang Ma, Eva Puimège, & John Rogers.
-* Maie, R., & Yi, W. (2023, IPA). Individual differences analysis of L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. Vocabulary Learning and Instruction, 11(2).
   
 Published Articles
 ======
