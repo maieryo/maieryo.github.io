@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Maie & Yi. (2023, October). Individual differences in L2 intuitions of phrasal frequency and association strength. Presented at <i>2023 Vocabulary SIG Symposium/i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieYi2023VocabSIG.pdf)
+* Maie & Yi. (2023, October). Individual differences in L2 intuitions of phrasal frequency and association strength. Presented at <i>2023 Vocabulary SIG Symposium</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieYi2023VocabSIG.pdf)
 * Maie & Godfroid (2023, August). Testing the three stage model of L2 skill acquisition. <i>The 32nd Conference of the European Second Language Association</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieGodfroidEuroSLA32.pdf)
 * Maie (2023, June). Testing the three stage model of L2 skill acquisition. <i>2023 Symposium of Japan Second Language Acquisition Research Forum </i>. [[Download]](https://github.com/maieryo/research/blob/presentations/JSLARF07012023.pdf)
 * Kremmel, Chen, Gao, Hui, Ma, Maie, Puimège, & Rogers (2023, March). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). <i>American Association for Applied Linguistics 2023</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/KremmelEtAlAAAL2023.pdf)
