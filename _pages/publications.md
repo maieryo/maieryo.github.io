@@ -12,7 +12,7 @@ Manuscripts in Progress (IPA)
   
 Published Articles
 ======
-* Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2023). Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. <i>Language Learning</i>, *73*(4), 1087-1126. [[Open Access]](https://doi.org/10.1111/lang.12616))
+* Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2023). Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. <i>Language Learning</i>, *73*(4), 1087-1126. [[Open Access]](https://doi.org/10.1111/lang.12616)
 * Yi, W., Man, K., & Maie, R. (2023). Investigating L1 and L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. <i>Language Learning</i> <i>73</i>(1), 266–300. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12521) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/YiEtAl2022LL.pdf)
 * Maie, R. & Godfroid, A. (2022). Controlled and automatic processing in the acceptability judgment task: An eye-tracking study. <i>Language Learning</i>, <i>72</i>(1), 158–197. [[Link]](https://doi.org/10.1111/lang.12474) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/Preprint_MaieGodfroidLL.pdf)
 * Maie, R. & DeKeyser, R. M. (2020). Conflicting evidence of explicit and implicit knowledge from objective and subjective measures. <i>Studies in Second Language Acquisition</i>, <i>42</i>(2), 359–382. [[Link]](https://doi.org/10.1017/S0272263119000615) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/MaieDeKeyserSSLA2020pdf.pdf)
