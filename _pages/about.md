@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Tohoku Universityo<br>
+Tohoku University<br>
 Graduate School of International Cultural Studies<br>
 41 Kawauchi, Aoba-ku, Sendai<br>
 Miyagi 980-8576, Japan<br>
