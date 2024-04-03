@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-The University of Tokyo<br>
-School of Engineering, IIIEE<br>
-7-3-1 Hongo, Bunkyo-ku<br>
-Tokyo 113-8656, Japan<br>
-Email: maie(at.sign)g.ecc.u-tokyo.ac.jp<br>
+Tohoku Universityo<br>
+Graduate School of International Cultural Studies<br>
+41 Kawauchi, Aoba-ku, Sendai<br>
+Miyagi 980-8576, Japan<br>
+Email: ryo.maie.e5(at.sign)tohoku.ac.jp<br>
 
 Bio
 ======
-Hello! My name is Ryo Maie, and I’m currently Project Assistant Professor in the [School of Engineering at University of Tokyo](https://www.t.u-tokyo.ac.jp/en/soe) (Ph.D. in [Second Language Studies from Michigan State University](https://sls.msu.edu/)). Please follow the menu above for more details about me and my work.
+Hello! My name is Ryo Maie, and I’m currently Senior Assistant Professor in the [Graduate School of International Cultural Studies at Tohoku University](https://www.intcul.tohoku.ac.jp/english/) (Ph.D. in [Second Language Studies from Michigan State University](https://sls.msu.edu/)). Please follow the menu above for more details about me and my work.
 
 I am originally from [Ibaraki Prefecture](https://www.pref.ibaraki.jp/bugai/kokusai/tabunka/en/index.html) of Japan, located in the northeastern part of the Kanto region (Tokyo is in this region too). I grew up in a small rural city named Omitama (used to be a town named Ogawa till 2006) with a dialect that is characterized by a moderate accent and a particular variety of vocabulary.
 
