@@ -8,10 +8,10 @@ author_profile: true
 Manuscripts in Progress (IPA)
 ======
 * Maie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in L2 research. *Journal name blindd for peer review*. [[Abstract]](https://github.com/maieryo/research/blob/papers/RMAL2024SI_MaieEguchiUchihara.pdf)
-* TwiLex Group. (2024, IPA). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). In-principle acceptance for a special issue in *Studies in Second Language Acquisition*. Authors (in alphabetical order): Yingzhao Chen, Jianwu Gao, Bronson Hui, Benjamin Kremmel, Ryo Maie, Shuang Ma, Eva Puimège, & John Rogers.
   
 Published Articles
 ======
+* TwiLex Group. (in press). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). Studies in Second Language Acquisition*. Authors (in alphabetical order): Yingzhao Chen, Jianwu Gao, Bronson Hui, Benjamin Kremmel, Ryo Maie, Shuang Ma, Eva Puimège, & John Rogers.
 * Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2023). Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. <i>Language Learning</i>, *73*(4), 1087-1126. [[Open Access]](https://doi.org/10.1111/lang.12616)
 * Yi, W., Man, K., & Maie, R. (2023). Investigating L1 and L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. <i>Language Learning</i> <i>73</i>(1), 266–300. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12521) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/YiEtAl2022LL.pdf)
 * Maie, R. & Godfroid, A. (2022). Controlled and automatic processing in the acceptability judgment task: An eye-tracking study. <i>Language Learning</i>, <i>72</i>(1), 158–197. [[Link]](https://doi.org/10.1111/lang.12474) [[Preprint Download]](https://github.com/maieryo/research/blob/papers/Preprint_MaieGodfroidLL.pdf)
