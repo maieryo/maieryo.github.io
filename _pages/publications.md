@@ -7,7 +7,7 @@ author_profile: true
 
 Manuscripts in Progress (IPA)
 ======
-* Maie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in L2 research. *Journal name blindd for peer review*. [[Abstract]](https://github.com/maieryo/research/blob/papers/RMAL2024SI_MaieEguchiUchihara.pdf)
+* Maie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in L2 research. *Journal name blind for peer review*. [[Abstract]](https://github.com/maieryo/research/blob/papers/RMAL2024SI_MaieEguchiUchihara.pdf)
   
 Published Articles
 ======
