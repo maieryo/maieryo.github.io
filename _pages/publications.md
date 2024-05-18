@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Manuscripts in Progress (IPA)
-======
-* Maie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in L2 research. *Journal name blinded for peer review*. [[Abstract]](https://github.com/maieryo/research/blob/papers/RMAL2024SI_MaieEguchiUchihara.pdf)
-  
 Published Articles
 ======
 * Maie, R., Eguchi, M., & Uchihara, T. (Accepted). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in applied linguistics. *Research Methods in Applied Linguistics*.
