@@ -1,4 +1,4 @@
-cxx---
+---
 layout: archive
 title: "Mountaineering"
 permalink: /mountain/
