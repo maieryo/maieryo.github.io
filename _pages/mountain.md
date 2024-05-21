@@ -9,5 +9,4 @@ One of my hobbits (though I've been away recently is mountaineering. Here are so
 
 2019: Mt. Fuji
 ======
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/assets/fuji2019_1.png" width="800" height="430">
-<img src="https://github.com/maieryo/maieryo.github.io/blob/master/assets/fuji2019_2.png" width="800" height="430">
+<img src="https://github.com/maieryo/maieryo.github.io/blob/master/assets/MtFuji2019.png" width="700" height="330">
