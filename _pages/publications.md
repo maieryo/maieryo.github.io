@@ -8,7 +8,7 @@ author_profile: true
 Published Articles
 ======
 * TwiLex Group. (in press). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). *Studies in Second Language Acquisition*. Authors (in alphabetical order): Yingzhao Chen, Jianwu Gao, Bronson Hui, Benjamin Kremmel, Ryo Maie, Shuang Ma, Eva Puimège, & John Rogers.
-* Maie, R., Eguchi, M., & Uchihara, T. (Accepted). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in applied linguistics. *Research Methods in Applied Linguistics*, *3*(2). [[Open Access]](https://doi.org/10.1016/j.rmal.2024.100124)
+* Maie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in applied linguistics. *Research Methods in Applied Linguistics*, *3*(2). [[Open Access]](https://doi.org/10.1016/j.rmal.2024.100124)
 * Maie, R., & Yi, W. (in press). Individual differences in L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. *Vocabulary Learning and Instruction*, *13*(1).
 * Rie, K., Maie, R., Yanagisawa, A., & In’nami, Y. (in press). Considerations to promote and accelerate Open Science: A response to Winke. *Language Testing*.
 * Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2023). Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. <i>Language Learning</i>, *73*(4), 1087-1126. [[Open Access]](https://doi.org/10.1111/lang.12616)
