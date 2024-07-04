@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Curriculum Vitae
+# CV
 My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/RyoMaieCV.pdf)
 <br>
 
