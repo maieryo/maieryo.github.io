@@ -25,12 +25,15 @@ My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/R
 # Professional Reference List
 **Dr. Aline Godfroid**<br>
 Professor of Second Language Studies<br>
-B253 Wells Hall, 619 Red Cedar Road<br>
 Michigan State University<br>
-East Lansing, MI 48824-1027<br>
 Email: godfroid@msu.edu<br>
 
 **Dr. Robert M. De Keyser**<br>
 Professor Emeritus of Second Language Acquisition<br>
 University of Maryland, College Park<br>
 Email: rdk@umd.edu<br>
+
+**Takumi Uchihara**
+Senior Assistant Professor of Linguistics<br>
+Tohoku University<br>
+Email: `takumi@tohoku.ac.jp`<br>
