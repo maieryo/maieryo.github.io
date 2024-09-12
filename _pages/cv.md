@@ -26,14 +26,14 @@ My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/R
 **Dr. Aline Godfroid**<br>
 Professor of Second Language Studies<br>
 Michigan State University<br>
-Email: godfroid@msu.edu<br>
+Email: `godfroid@msu.edu`<br>
 
 **Dr. Robert M. De Keyser**<br>
 Professor Emeritus of Second Language Acquisition<br>
 University of Maryland, College Park<br>
-Email: rdk@umd.edu<br>
+Email: `rdk@umd.edu`<br>
 
-**Takumi Uchihara**
+**Takumi Uchihara**<br>
 Senior Assistant Professor of Linguistics<br>
 Tohoku University<br>
 Email: `takumi@tohoku.ac.jp`<br>
