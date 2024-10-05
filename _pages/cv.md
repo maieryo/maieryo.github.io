@@ -33,7 +33,7 @@ Professor Emeritus of Second Language Acquisition<br>
 University of Maryland, College Park<br>
 Email: `rdk@umd.edu`<br>
 
-**Takumi Uchihara**<br>
+**Dr. Takumi Uchihara**<br>
 Senior Assistant Professor of Linguistics<br>
 Tohoku University<br>
 Email: `takumi@tohoku.ac.jp`<br>
