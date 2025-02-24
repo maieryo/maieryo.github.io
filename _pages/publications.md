@@ -8,10 +8,12 @@ author_profile: true
 Published Articles
 ======
 ### In Progress
-* Maie, R., Oikawa, G., Chen, Y., & Uchihara, T. (under review). Vocabulary practice through testing.
+* Maie, R., & Takumi, U. (in progress). Testing and spoken vocabulary.
+* Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (in progress). Vocabulary testing in different modalities.
 
 ### Published Articles
-* Maie, R., & Godfroid, A. (accepted). Testing the three-stage model of second language skill acquisition. *Studies in Second Language Acquisition*. [[Preprint]](https://github.com/maieryo/research/blob/papers/MaieGodfroid2025SSLA.pdf)
+* Maie, R., Oikawa, G., Chen, Y., & Uchihara, T. (in press). Vocabulary practice through testing: The role of retrieval practice and proficiency. *TESOL Quarterly*.
+* Maie, R., & Godfroid, A. (in press). Testing the three-stage model of second language skill acquisition. *Studies in Second Language Acquisition*. [[Preprint]](https://github.com/maieryo/research/blob/papers/MaieGodfroid2025SSLA.pdf)
 * Koizumi, R., Maie, R., Yanagisawa, A., & In’nami, Y. (2024). Considerations to promote and accelerate Open Science: A response to Winke. *Language Testing*, *41*(4), 892-897. [[Open Access]](https://doi.org/10.1177/02655322241239379)
 *  TwiLex Group. (2024). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). *Studies in Second Language Acquisition*. Authors (in alphabetical order): Yingzhao Chen, Jianwu Gao, Bronson Hui, Benjamin Kremmel, Ryo Maie, Shuang Ma, Eva Puimège, & John Rogers. [[Open Access]](https://doi.org/10.1017/S0272263124000275)
 * Maie, R., & Yi, W. (2024). Individual differences in L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. *Vocabulary Learning and Instruction*, *13*(1), 1-11. [[Open Access]](https://www.castledown.com/journals/vli/article/view/1311)
