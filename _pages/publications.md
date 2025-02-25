@@ -8,7 +8,7 @@ author_profile: true
 Published Articles
 ======
 ### In Progress
-* Maie, R., & Takumi, U. (in progress). Testing and spoken vocabulary.
+* Maie, R., & Uchihara, T. (in progress). Testing and spoken vocabulary.
 * Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (in progress). Vocabulary testing in different modalities.
 
 ### Published Articles
