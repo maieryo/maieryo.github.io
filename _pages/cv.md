@@ -9,16 +9,16 @@ redirect_from:
 
 # Curriculum Vitae
 
-<object data="https://github.com/maieryo/research/raw/main/CV/RyoMaieCV.pdf" 
+<object data="https://raw.githubusercontent.com/maieryo/research/CV/RyoMaieCV.pdf" 
         type="application/pdf" width="100%" height="800px">
    <p>Your browser does not support PDFs. Please download the PDF: 
-   <a href="https://github.com/maieryo/research/raw/main/CV/RyoMaieCV.pdf">Download CV</a>.
+   <a href="https://raw.githubusercontent.com/maieryo/research/CV/RyoMaieCV.pdf">Download CV</a>.
    </p>
 </object>
 
 ---
 
-## My full CV is also available for download [**here**](https://github.com/maieryo/research/raw/main/CV/RyoMaieCV.pdf).
+## My full CV is also available for download [**here**](https://raw.githubusercontent.com/maieryo/research/CV/RyoMaieCV.pdf).
 <br>
 
 # Academic Positions
