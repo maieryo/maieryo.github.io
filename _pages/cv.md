@@ -6,8 +6,18 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 # Curriculum Vitae
-## My full CV is available [**here**](https://github.com/maieryo/research/blob/CV/RyoMaieCV.pdf)
+
+<object data="https://github.com/maieryo/research/raw/CV/RyoMaieCV.pdf" type="application/pdf" width="100%" height="800px">
+   <p>Your browser does not support PDFs. Please download the PDF: 
+   <a href="https://github.com/maieryo/research/raw/CV/RyoMaieCV.pdf">Download CV</a>.
+   </p>
+</object>
+
+---
+
+## My full CV is also available for download [**here**](https://github.com/maieryo/research/raw/CV/RyoMaieCV.pdf)
 <br>
 
 # Academic Positions
