@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Tsunemoto, Koizumi, Fukazawa, In'nami, Maie, & Abe (2025, June). Adapting and evaluating formative L2 comprehensibilityassessment scale. Paper presented at <i>Language Testing Research Colloquium 2025</i>.
+* Maie, Oikawa, Ying, & Uchihara (2025, June). Cumulative testing for vocabulary learning: The role ofretrieval practice and proficiency. Paper presented at <i>Vocab@Maryland</i>.
 * Maie & Yi. (2023, October). Individual differences in L2 intuitions of phrasal frequency and association strength. Presented at <i>2023 Vocabulary SIG Symposium</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieYi2023VocabSIG.pdf)
 * Maie & Godfroid (2023, August). Testing the three stage model of L2 skill acquisition. <i>The 32nd Conference of the European Second Language Association</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieGodfroidEuroSLA32.pdf)
 * Maie (2023, June). Testing the three stage model of L2 skill acquisition. <i>2023 Symposium of Japan Second Language Acquisition Research Forum </i>. [[Download]](https://github.com/maieryo/research/blob/presentations/JSLARF07012023.pdf)
