@@ -10,6 +10,7 @@ Published Articles
 ### In Progress
 * Maie, R., & Uchihara, T. (in progress). Testing and spoken vocabulary.
 * Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (in progress). Vocabulary testing in different modalities.
+* Suzuki, Y., Maie, R., & Hui, B. (in progress). Timeline on L2 automatization research.
 
 ### Published Articles
 * Maie, R., & Godfroid, A. (in press). Testing the three-stage model of second language skill acquisition. *Studies in Second Language Acquisition*. [[Preprint]](https://github.com/maieryo/research/blob/papers/MaieGodfroid2025SSLA.pdf)
