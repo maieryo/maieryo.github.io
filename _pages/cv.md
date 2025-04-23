@@ -13,16 +13,18 @@ redirect_from:
 <br>
 
 # Academic Positions
-**2024 - present**: Senior Assistant Professor, Graduate School of International Cultural Studies, Tohoku University<br>
-**2023 – 2024**: Project Assistant Professor, IIIEE, School of Engineering, The University of Tokyo<br>
-**2022 – 2023**: Senior Academic Specialist, IIIEE, School of Engineering, The University of Tokyo<br>
-**2022 – 2023**: Part-time Lecturer, School of Engineering, IIIEE, The University of Tokyo<br>
-**2021 – 2022**: TA in Second Language Studies program, Department of Linguistics, Languages, and Cultures, Michigan State University<br>
-**2020 – 2021**: TA in Japanese program, Department of Linguistics, Languages, and Cultures, Michigan State University<br>
-**2018 – 2020**: RA in Second Language Studies program, Michigan State University<br>
-**2017 – 2018**: TA in Language House Program, University of Maryland, College Park<br>
-**2017 – 2018**: RA in Academic Success Center, Kanda University of Int’l Studies<br>
-**2016 – 2017**: RA at Center for Foreign Language, Kanda University of Int’l Studies<br>
+| Years         | Position                                | Institution & Department                                           |
+|---------------|------------------------------------------|--------------------------------------------------------------------|
+| 2024 – present| Senior Assistant Professor               | Tohoku University, Grad. School of Int’l Cultural Studies          |
+| 2023 – 2024   | Project Assistant Professor              | University of Tokyo, IIIEE, School of Engineering                  |
+| 2022 – 2023   | Senior Academic Specialist               | University of Tokyo, IIIEE, School of Engineering                  |
+| 2022 – 2023   | Part-time Lecturer                       | University of Tokyo, IIIEE, School of Engineering                  |
+| 2021 – 2022   | TA, Second Language Studies Program      | Michigan State University, Dept. of Linguistics, Languages, and Cultures |
+| 2020 – 2021   | TA, Japanese Program                     | Michigan State University, Dept. of Linguistics, Languages, and Cultures |
+| 2018 – 2020   | RA, Second Language Studies Program      | Michigan State University                                          |
+| 2017 – 2018   | TA, Language House Program               | University of Maryland, College Park                              |
+| 2017 – 2018   | RA, Academic Success Center              | Kanda University of Int’l Studies                                  |
+| 2016 – 2017   | RA, Center for Foreign Language          | Kanda University of Int’l Studies                                  |
 
 # Professional Reference List
 **Dr. Aline Godfroid**<br>
