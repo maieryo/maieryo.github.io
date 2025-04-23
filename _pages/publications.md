@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Research Articles
-## In Progress
 ### In Progress
 <ol reversed>
   <li>Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (in progress). Vocabulary testing in different modalities.</li>
