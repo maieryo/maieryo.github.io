@@ -17,6 +17,9 @@ redirect_from:
 | Years         | Position                                | Institution & Department                                           |
 |---------------|------------------------------------------|--------------------------------------------------------------------|
 | 2024 – present| Senior Assistant Professor               | Tohoku University, Grad. School of Int’l Cultural Studies          |
+|               | - Cross-appointment                      | Tohoku University, the International Graduate Program in Language Sciences|
+|               | - Cross-appointment                      | Tohoku University, Research Center for Language, Brain, and Cognition|
+|               | - Cross-appointment                      | Tohoku University, Cognitive Neuroscience Application Center|
 | 2023 – 2024   | Project Assistant Professor              | University of Tokyo, IIIEE, School of Engineering                  |
 | 2022 – 2023   | Senior Academic Specialist               | University of Tokyo, IIIEE, School of Engineering                  |
 | 2022 – 2023   | Part-time Lecturer                       | University of Tokyo, IIIEE, School of Engineering                  |
