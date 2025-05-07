@@ -26,9 +26,9 @@ redirect_from:
 | 2021 – 2022   | TA, Second Language Studies Program      | [Michigan State University, Dept. of Linguistics, Languages, and Cultures](https://sls.msu.edu/) |
 | 2020 – 2021   | TA, Japanese Program                     | [Michigan State University, Dept. of Linguistics, Languages, and Cultures](https://lilac.msu.edu/japanese/) |
 | 2018 – 2020   | RA, Second Language Studies Program      | [Michigan State University, Dept. of Linguistics, Languages, and Cultures](https://sls.msu.edu/) |
-| 2017 – 2018   | TA, Language House Program               | [University of Maryland, College Park] (https://sllc.umd.edu/special-programs/language-house) |
-| 2017 – 2018   | RA, Academic Success Center              | Kanda University of Int’l Studies                                  |
-| 2016 – 2017   | RA, Center for Foreign Language          | Kanda University of Int’l Studies                                  |
+| 2017 – 2018   | TA, Language House Program               | [University of Maryland, College Park](https://sllc.umd.edu/special-programs/language-house) |
+| 2017 – 2018   | RA, Academic Success Center              | [Kanda University of Int’l Studies](https://www.kandagaigo.ac.jp/kuis/) |
+| 2016 – 2017   | RA, Center for Foreign Language          | [Kanda University of Int’l Studies](https://www.kandagaigo.ac.jp/kuis/) |
 
 <br>
 
