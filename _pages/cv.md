@@ -30,6 +30,8 @@ redirect_from:
 | 2017 – 2018   | RA, Academic Success Center              | Kanda University of Int’l Studies                                  |
 | 2016 – 2017   | RA, Center for Foreign Language          | Kanda University of Int’l Studies                                  |
 
+<br>
+
 # Professional Reference List
 **Dr. Aline Godfroid**<br>
 Professor of Second Language Studies<br>
