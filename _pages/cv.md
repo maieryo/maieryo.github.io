@@ -16,7 +16,7 @@ redirect_from:
 
 | Years         | Position                                | Institution & Department                                           |
 |---------------|------------------------------------------|--------------------------------------------------------------------|
-| 2024 – present| Senior Assistant Professor               | Tohoku University, Grad. School of Int’l Cultural Studies          |
+| 2024 – present| Senior Assistant Professor               | [Tohoku University, Graduate School of International Cultural Studies](https://www.intcul.tohoku.ac.jp/english/)          |
 |               | - Cross-appointment                      | Tohoku University, the International Graduate Program in Language Sciences|
 |               | - Cross-appointment                      | Tohoku University, Research Center for Language, Brain, and Cognition|
 |               | - Cross-appointment                      | Tohoku University, Cognitive Neuroscience Application Center|
