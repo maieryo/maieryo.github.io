@@ -13,6 +13,7 @@ redirect_from:
 <br>
 
 # Academic Positions
+
 | Years         | Position                                | Institution & Department                                           |
 |---------------|------------------------------------------|--------------------------------------------------------------------|
 | 2024 – present| Senior Assistant Professor               | Tohoku University, Grad. School of Int’l Cultural Studies          |
