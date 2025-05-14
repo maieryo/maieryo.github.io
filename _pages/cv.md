@@ -9,7 +9,7 @@ redirect_from:
 
 # Curriculum Vitae
 
-## My full CV is available for download [**here**](https://raw.githubusercontent.com/maieryo/research/CV/RyoMaieCV.pdf).
+## My full CV is available for download [**here**](https://github.com/maieryo/research/blob/master/RyoMaieCV.pdf).
 <br>
 
 # Academic Positions
