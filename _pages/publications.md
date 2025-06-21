@@ -15,7 +15,7 @@ author_profile: true
 
 ### Published Articles
 <ol reversed>
-  <li>Suzuki, Y., Maie, R., & Hui, B. (2025). Research timeline: Automatization in second language learning. <i>Language Teaching</i>.</li> <a href="https://doi.org/10.1017/S026144482500059X">[Open Access]</a></li>
+  <li>Suzuki, Y., Maie, R., & Hui, B. (2025). Research timeline: Automatization in second language learning. <i>Language Teaching</i>.<a href="https://doi.org/10.1017/S026144482500059X">[Open Access]</a></li>
   <li>Maie, R., & Godfroid, A. (2025). Testing the three-stage model of second language skill acquisition. <i>Studies in Second Language Acquisition</i>. <a href="https://doi.org/10.1017/S027226312500021X">[Open Access]</a></li>
   <li>Maie, R., Oikawa, G., Chen, Y., & Uchihara, T. (2025). Vocabulary practice through testing: The role of retrieval practice and proficiency. <i>TESOL Quarterly</i>. <a href="https://doi.org/10.1002/tesq.3391">[Open Access]</a></li>
   <li>Koizumi, R., Maie, R., Yanagisawa, A., & In’nami, Y. (2024). Considerations to promote and accelerate Open Science: A response to Winke. <i>Language Testing</i>, <b>41</b>(4), 892–897. <a href="https://doi.org/10.1177/02655322241239379">[Open Access]</a></li>
