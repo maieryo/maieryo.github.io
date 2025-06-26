@@ -8,11 +8,12 @@ author_profile: true
 ## Research Articles
 ### In Progress
 <ol reversed>
-  <li>Maie, R., & Godfroid, A. (in progress). Second language skill acquisition under different instructional conditions.
+  <li>Maie, R., & Godfroid, A. (in progress). Second language skill acquisition under different instructional conditions.</li>
   <li>Maie, R. (in progress). Second language skill acquisition and production.</li>
   <li>Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (in progress). Vocabulary testing in different modalities.</li>
   <li>Maie, R., & Uchihara, T. (in progress). Testing and spoken vocabulary.</li>
 </ol>
+
 
 ### Published Articles
 <ol reversed>
