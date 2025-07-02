@@ -9,13 +9,14 @@ redirect_from:
 
 # Curriculum Vitae
 
-## My Full CV is available <a href="https://github.com/maieryo/research/blob/CV/RyoMaieCV.pdf" download>here</a>.
+## My Full CV is available <a href="https://raw.githubusercontent.com/maieryo/research/CV/RyoMaieCV.pdf" download>here</a>.
 <br>
 
 # Academic Positions
 
 | Years         | Position                                | Institution & Department                                           |
 |---------------|------------------------------------------|--------------------------------------------------------------------|
+| 2025 – present| Assistant Professor on Call              | [Second Language Studies, Department of Linguistics, Languages, and Cultures](https://sls.msu.edu/)|
 | 2024 – present| Senior Assistant Professor               | [Tohoku University, Graduate School of International Cultural Studies](https://www.intcul.tohoku.ac.jp/english/) |
 |               | - Cross-appointment                      | [Tohoku University, the International Graduate Program in Language Sciences](https://www.intcul.tohoku.ac.jp/igpls/) |
 |               | - Cross-appointment                      | [Tohoku University, Research Center for Language, Brain, and Cognition](https://sites.google.com/view/lbcresearchcenter) |
