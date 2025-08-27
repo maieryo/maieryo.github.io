@@ -15,14 +15,10 @@ We have a strong research team focusing on second language acquisition and bilin
 - Aki Tsunemoto, Associate Professor <a href="https://akitsunemoto.wordpress.com/">(Website)</a>
 - Ryuya Komuro, Postdoc　<a href="https://researchmap.jp/Komuro-Ryuya">(Website)</a>
 
-## Student Collaborators (Tohoku SLA team)
+## Student Collaborators
 - Fang Sun, Ph.D. Student (advised by Ryo Maie)
 - Gaia Oikawa, Ph.D. Student (advised by Takumi Uchihara)
 - Salvador Xiongfei Wang, M.A. Student (advised by Ryo Maie)
 - Juni Kabe, M.A. Student (advised by Ryo Maie)
  
-## International Collaborators
-- Aline Godfroid, Professor (Michigan State University) <a href="https://sls.msu.edu/aline-godfroid-2/">(Website)</a>
-- Robert DeKeyser, Professor Emeritus (University of Maryland) <a href="https://sllc.umd.edu/directory/robert-dekeyser">(Website)</a>
-- 
 
