@@ -16,7 +16,7 @@ Email: ryo.maie.e5(at.sign)tohoku.ac.jp<br>
 
 Bio
 ======
-Hello! My name is Ryo Maie, and I’m currently Senior Assistant Professor in the [Graduate School of International Cultural Studies at Tohoku University](https://www.intcul.tohoku.ac.jp/english/) (Ph.D. in [Second Language Studies from Michigan State University](https://sls.msu.edu/)). Please follow the menu above for more details about me and my work.
+Hello! My name is Ryo Maie, and I’m currently Senior Assistant Professor in the [Graduate School of International Cultural Studies at Tohoku University](https://www.intcul.tohoku.ac.jp/en) (Ph.D. in [Second Language Studies from Michigan State University](https://sls.msu.edu/)). Please follow the menu above for more details about me and my work.
 
 I am originally from [Ibaraki Prefecture](https://www.pref.ibaraki.jp/bugai/kokusai/tabunka/en/index.html) of Japan, located in the northeastern part of the Kanto region (Tokyo is in this region too). I grew up in a small rural city named Omitama (used to be a town named Ogawa till 2006) with a dialect that is characterized by a moderate accent and a particular variety of vocabulary.
 
