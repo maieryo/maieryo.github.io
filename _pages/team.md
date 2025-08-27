@@ -11,9 +11,9 @@ We have a strong research team focusing on second language acquisition and bilin
 
 ## Faculty Collaborators (Tohoku SLA team)
 - Hyeonjeong Jeong, Professor <a href="https://sites.google.com/view/hyeonjeong-jeong/home">(Website)</a>
-- Mariko Nakayama, Professor (website)
-- Takumi Uchihara, Distingushed Associate Professor (website)
-- Aki Tsunemoto, Associate Professor (website)
+- Mariko Nakayama, Professor <a href="https://www.intcul.tohoku.ac.jp/igpls/people/mariko-nakayama/">(Website)</a>
+- Takumi Uchihara, Distingushed Associate Professor <a href="https://takumiuchihara.weebly.com/">(Website)</a>
+- Aki Tsunemoto, Associate Professor <a href="https://akitsunemoto.wordpress.com/">(Website)</a>
 
 ## International Collaborators
 - 
