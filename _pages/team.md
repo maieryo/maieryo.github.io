@@ -17,7 +17,7 @@ We have a strong research team focusing on second language acquisition and bilin
 - Ryuya Komuro, Postdoc　<a href="https://researchmap.jp/Komuro-Ryuya">(Website)</a>
 
 ## Student Collaborators (Tohoku SLA team)
-- FANG SUN, Ph.D. Student (advised by Ryo Maie)
+- Fang Sun, Ph.D. Student (advised by Ryo Maie)
 - Gaia Oikawa, Ph.D. Student (advised by Takumi Uchihara)
 - Salvador Xiongfei Wang, M.A. Student (advised by Ryo Maie)
 - Juni Kabe, M.A. Student (advised by Ryo Maie)
