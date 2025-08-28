@@ -35,7 +35,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/journals/TQ.png" alt="TESOL Quarterly" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/TQ.png" alt="TESOL Quarterly" width="50" style="float:left; margin-right:10px;"/>
     Maie, R., Oikawa, G., Chen, Y., & Uchihara, T. (2025). Vocabulary practice through testing: The role of retrieval practice and proficiency. 
     <i>TESOL Quarterly</i>. 
     <a href="https://doi.org/10.1002/tesq.3391">[Open Access]</a>
