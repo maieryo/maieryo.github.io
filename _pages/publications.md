@@ -19,7 +19,7 @@ author_profile: true
 ### Published Articles
 <ol reversed>
   <li>
-    <img src="/assets/LT.png" alt="Language Teaching" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/LT.png" alt="Language Teaching" width="75" style="float:left; margin-right:10px;"/>
     Suzuki, Y., Maie, R., & Hui, B. (2025). Research timeline: Automatization in second language learning. 
     <i>Language Teaching</i>. 
     <a href="https://doi.org/10.1017/S026144482500059X">[Open Access]</a>
@@ -27,7 +27,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/SSLA.png" alt="SSLA" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/SSLA.png" alt="SSLA" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., & Godfroid, A. (2025). Testing the three-stage model of second language skill acquisition. 
     <i>Studies in Second Language Acquisition</i>, <i>47</i>(2), 617-649. 
     <a href="https://doi.org/10.1017/S027226312500021X">[Open Access]</a>
@@ -35,7 +35,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/TQ.png" alt="TESOL Quarterly" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/TQ.png" alt="TESOL Quarterly" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., Oikawa, G., Chen, Y., & Uchihara, T. (2025). Vocabulary practice through testing: The role of retrieval practice and proficiency. 
     <i>TESOL Quarterly</i>. 
     <a href="https://doi.org/10.1002/tesq.3391">[Open Access]</a>
@@ -43,7 +43,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/LTS.png" alt="Language Testing" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/LTS.png" alt="Language Testing" width="75" style="float:left; margin-right:10px;"/>
     Koizumi, R., Maie, R., Yanagisawa, A., & In’nami, Y. (2024). Considerations to promote and accelerate Open Science: A response to Winke. 
     <i>Language Testing</i>, <b>41</b>(4), 892–897. 
     <a href="https://doi.org/10.1177/02655322241239379">[Open Access]</a>
@@ -51,7 +51,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/SSLA.png" alt="SSLA" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/SSLA.png" alt="SSLA" width="75" style="float:left; margin-right:10px;"/>
     TwiLex Group. (2024). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). 
     <i>Studies in Second Language Acquisition</i>. Authors (in alphabetical order): Yingzhao Chen, Jianwu Gao, Bronson Hui, Benjamin Kremmel, Ryo Maie, Shuang Ma, Eva Puimège, & John Rogers. 
     <a href="https://doi.org/10.1017/S0272263124000275">[Open Access]</a>
@@ -59,7 +59,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/VLI.png" alt="Vocabulary Learning and Instruction" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/VLI.png" alt="Vocabulary Learning and Instruction" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., & Yi, W. (2024). Individual differences in L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. 
     <i>Vocabulary Learning and Instruction</i>, <b>13</b>(1), 1–11. 
     <a href="https://www.castledown.com/journals/vli/article/view/1311">[Open Access]</a>
@@ -67,7 +67,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/RMAL.png" alt="Research Methods in Applied Linguistics" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/RMAL.png" alt="Research Methods in Applied Linguistics" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in applied linguistics. 
     <i>Research Methods in Applied Linguistics</i>, <b>3</b>(2). 
     <a href="https://doi.org/10.1016/j.rmal.2024.100124">[Open Access]</a>
@@ -75,7 +75,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/LL.png" alt="Language Learning" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/LL.png" alt="Language Learning" width="75" style="float:left; margin-right:10px;"/>
     Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2023). Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. 
     <i>Language Learning</i>, <b>73</b>(4), 1087–1126. 
     <a href="https://doi.org/10.1111/lang.12616">[Open Access]</a>
@@ -83,7 +83,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/LL.png" alt="Language Learning" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/LL.png" alt="Language Learning" width="75" style="float:left; margin-right:10px;"/>
     Yi, W., Man, K., & Maie, R. (2023). Investigating L1 and L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. 
     <i>Language Learning</i> <b>73</b>(1), 266–300. 
     <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12521">[Link]</a> 
@@ -92,7 +92,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/LL.png" alt="Language Learning" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/LL.png" alt="Language Learning" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. & Godfroid, A. (2022). Controlled and automatic processing in the acceptability judgment task: An eye-tracking study. 
     <i>Language Learning</i>, <b>72</b>(1), 158–197. 
     <a href="https://doi.org/10.1111/lang.12474">[Link]</a> 
@@ -101,7 +101,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/SSLA.png" alt="SSLA" width="50" style="float:left; margin-right:10px;"/>
+    <img src="/assets/SSLA.png" alt="SSLA" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. & DeKeyser, R. M. (2020). Conflicting evidence of explicit and implicit knowledge from objective and subjective measures. 
     <i>Studies in Second Language Acquisition</i>, <b>42</b>(2), 359–382. 
     <a href="https://doi.org/10.1017/S0272263119000615">[Link]</a> 
