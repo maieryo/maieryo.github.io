@@ -24,7 +24,6 @@ redirect_from:
 </div>
 
 <br/>
-<br/>
 
 Bio
 ======
@@ -33,7 +32,6 @@ Hello! My name is Ryo Maie, and I’m currently Senior Assistant Professor in th
 <a href="https://www.intcul.tohoku.ac.jp/en">Graduate School of International Cultural Studies at Tohoku University</a> 
 (Ph.D. in <a href="https://sls.msu.edu/">Second Language Studies from Michigan State University</a>). Please follow the menu above for more details about me and my work.I am originally from <a href="https://www.pref.ibaraki.jp/bugai/kokusai/tabunka/en/index.html">Ibaraki Prefecture</a> of Japan, located in the northeastern part of the Kanto region (Tokyo is in this region too). I grew up in a small rural city named Omitama (used to be a town named Ogawa till 2006) with a dialect that is characterized by a moderate accent and a particular variety of vocabulary. Before joining the SLS program, I completed my master’s degree in Second Language Acquisition at University of Maryland, College Park, bachelor’s degree at Kanda University of International Studies in Japan, and study abroad at Dartmouth College. Please visit my CV page for more details. You can also access my researchmap page from here.
 </div>
-<br/>
 <br/>
 
 
