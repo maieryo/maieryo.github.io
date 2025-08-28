@@ -54,5 +54,5 @@ Research Interests
 <div style="text-align: center; margin-top: 1.5em;">
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/power.png"
        alt="Research"
-       width="500" />
+       width="600" />
 </div>
