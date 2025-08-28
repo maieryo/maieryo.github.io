@@ -16,9 +16,12 @@ We have a strong research team focusing on second language acquisition and bilin
 - Ryuya Komuro, Postdoc　<a href="https://researchmap.jp/Komuro-Ryuya">(Website)</a>
 
 ## Student Collaborators
-- Fang Sun, Ph.D. Student (advised by Ryo Maie)
-- Gaia Oikawa, Ph.D. Student (advised by Takumi Uchihara)
-- Salvador Xiongfei Wang, M.A. Student (advised by Ryo Maie)
-- Juni Kabe, M.A. Student (advised by Ryo Maie)
- 
+### Ph.D. Students
+- Fang Sun
+  - Examining the Effect of Contextual Diversity on L2 Incidental Vocabulary Learning: A Case of Japanese EFL Learners
+### M.A. Students
+- Salvador Xiongfei Wang
+  - Effects of Talker Variability on Second Language Vocabulary Learning: A Classroom Study
+- Juni Kabe
+  - Learner Engagement in Task Repetition: The Impact of Learner-Generated Content and L2 Grit
 
