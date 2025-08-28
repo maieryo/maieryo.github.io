@@ -9,18 +9,17 @@ redirect_from:
 ---
 
 <!-- First block (before Bio) -->
-<div style="text-align: center; margin-top: 1.5em;">
-  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/SkillAcquisition.png"
-       alt="Research"
-       width="500" />
-</div>
 <div style="text-align: justify;">
   Tohoku University<br/>
   Graduate School of International Cultural Studies<br/>
   41 Kawauchi, Aoba-ku, Sendai<br/>
   Miyagi 980-8576, Japan<br/>
   Email: ryo.maie.e5(at.sign)tohoku.ac.jp<br/>
-
+</div>
+<div style="text-align: center; margin-top: 1.5em;">
+  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/SkillAcquisition.png"
+       alt="Research"
+       width="400" />
 </div>
 <br/>
 <br/>
