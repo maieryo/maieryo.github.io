@@ -114,7 +114,7 @@ author_profile: true
       <a href="https://github.com/maieryo/research/blob/presentations/MaieJSLARF2020.pdf">[Download]</a>
     </div>
     <div>
-      <img src="/assets/AAAL2020.png" alt="AAAL2020" style="width:100px;"/>
+      <img src="/assets/AAAL2020.png" alt="AAAL2020" style="width:200px;"/>
     </div>
   </li>
 
