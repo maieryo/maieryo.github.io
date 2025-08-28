@@ -114,7 +114,7 @@ author_profile: true
 
 <ol reversed>
   <li>
-    <img src="/assets/Book.jpg" alt="Book3" width="75" style="float:left; margin-right:10px;"/>
+    <img src="/assets/Book3.jpg" alt="Book3" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., & Godfroid, A. (2023). A synthesis of L2 practice research: What is “practice” and how has it been investigated? In Y. Suzuki (Ed.), 
     <i>Practice and automatization in second Language research: Perspectives from skill acquisition theory and cognitive psychology</i>. 
     Routledge: Cambridge University Press.
@@ -123,7 +123,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/Book.jpg" alt="Book2" width="75" style="float:left; margin-right:10px;"/>
+    <img src="/assets/Book2.jpg" alt="Book2" width="75" style="float:left; margin-right:10px;"/>
     Jackson, D. O., & Maie, R. (2023). Implicit/statistical learning and second language outcomes: A Bayesian meta-analysis. In E. Wen, P. Skehan, & R. Sparks (Eds.),
     <i>Language aptitude theory and practice</i>. 
     New York: Cambridge University Press.
@@ -132,7 +132,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/Book.jpg" alt="Book2" width="75" style="float:left; margin-right:10px;"/>
+    <img src="/assets/Book1.jpg" alt="Book2" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. & Salen, B. (2021). Blustery with an occasional downpour: An analysis of target discourse in media weather forecasts. In M. J. Ahmaidan & M. H. Long (Eds.),
     <i>The Cambridge handbook of task-based language teaching</i>. 
     New York: Cambridge University Press.
