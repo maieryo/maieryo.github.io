@@ -20,7 +20,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 ## Faculty Collaborators (Tohoku SLA Team)
 - **Hyeonjeong Jeong**, Professor — [Website](https://sites.google.com/view/hyeonjeong-jeong/home)
 - **Mariko Nakayama**, Professor — [Website](https://www.intcul.tohoku.ac.jp/igpls/people/mariko-nakayama/)
-- **Takumi Uchihara**, **Distinguished** Associate Professor — [Website](https://takumiuchihara.weebly.com/)
+- **Takumi Uchihara**, Distinguished Associate Professor — [Website](https://takumiuchihara.weebly.com/)
 - **Aki Tsunemoto**, Associate Professor — [Website](https://akitsunemoto.wordpress.com/)
 - **Ryuya Komuro**, Postdoctoral Researcher — [Website](https://researchmap.jp/Komuro-Ryuya)
 
