@@ -155,7 +155,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/SLS2.jpg" alt="SLS2" width="75" style="float:left; margin-right:10px;"/>
+    <img src="/assets/SLS2.png" alt="SLS2" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis.
     <i>Working Papers in SLS</i>, <i>12</i>, 74–115.
     <a href="https://hcommons.org/deposits/item/hc:46463">[Link]</a> <a href="https://github.com/maieryo/research/blob/papers/Maie2022SLS.pdf">[Download]</a>
@@ -171,7 +171,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/SLS1.jpg" alt="SLS1" width="75" style="float:left; margin-right:10px;"/>
+    <img src="/assets/SLS1.png" alt="SLS1" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. (2019). Interview with Nick C. Ellis.
     <i>Working Papers in SLS</i>, <i>10</i>, 74–115.
     <a href="https://hcommons.org/deposits/item/hc:46463">[Link]</a> <a href="https://github.com/maieryo/research/blob/papers/InterviewWithNickCEllis.pdf">[Download]</a>
