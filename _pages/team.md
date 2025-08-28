@@ -7,6 +7,14 @@ author_profile: true
 
 ## About the Tohoku SLA Team
 
+<figure style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARFTohoku2024.jpg"
+       alt="JSLARF2024"
+       width="700"
+       style="margin:0 1rem 1rem 0;" />
+  <figcaption>JSLARF at Tohoku 2024</figcaption>
+</figure>
+
 <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/tohokusla.png"
      alt="Tohoku SLA Team"
      width="300"
@@ -20,13 +28,6 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 <div style="clear:both;"></div>
 
-<figure style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARFTohoku2024.jpg"
-       alt="JSLARF2024"
-       width="750"
-       style="margin:0 1rem 1rem 0;" />
-  <figcaption>JSLARF at Tohoku 2024</figcaption>
-</figure>
 
 ## Faculty Collaborators (Tohoku SLA Team)
 - **Hyeonjeong Jeong**, Professor — [Website](https://sites.google.com/view/hyeonjeong-jeong/home)
