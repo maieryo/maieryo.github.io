@@ -111,11 +111,37 @@ author_profile: true
 </ol>
 
 ## Book Chapters
+
 <ol reversed>
-  <li>Maie, R., & Godfroid, A. (2023). A synthesis of L2 practice research: What is “practice” and how has it been investigated? In Y. Suzuki (Ed.), <i>Practice and automatization in second Language research: Perspectives from skill acquisition theory and cognitive psychology</i>. Routledge: Cambridge University Press. <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003414643/practice-automatization-second-language-research-yuichi-suzuki">[Link]</a></li>
-  <li>Jackson, D. O., & Maie, R. (2023). Implicit/statistical learning and second language outcomes: A Bayesian meta-analysis. In E. Wen, P. Skehan, & R. Sparks (Eds.), <i>Language aptitude theory and practice</i>. New York: Cambridge University Press. <a href="https://www.cambridge.org/jp/academic/subjects/languages-linguistics/applied-linguistics-and-second-language-acquisition/language-aptitude-theory-and-practice?format=HB&isbn=9781316513996">[Link]</a></li>
-  <li>Maie, R. & Salen, B. (2021). Blustery with an occasional downpour: An analysis of target discourse in media weather forecasts. In M. J. Ahmaidan & M. H. Long (Eds.), <i>The Cambridge handbook of task-based language teaching</i>. New York: Cambridge University Press. <a href="https://www.cambridge.org/core/books/abs/cambridge-handbook-of-taskbased-language-teaching/blustery-with-an-occasional-downpour/1BAF4C99AFAC232F17E68409C03141DB">[Link]</a></li>
+  <li>
+    <img src="/assets/Book.jpg" alt="Book3" width="75" style="float:left; margin-right:10px;"/>
+    Maie, R., & Godfroid, A. (2023). A synthesis of L2 practice research: What is “practice” and how has it been investigated? In Y. Suzuki (Ed.), 
+    <i>Practice and automatization in second Language research: Perspectives from skill acquisition theory and cognitive psychology</i>. 
+    Routledge: Cambridge University Press.
+    <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003414643/practice-automatization-second-language-research-yuichi-suzuki">[Link]</a>
+    <div style="clear:both;"></div>
+  </li>
+
+  <li>
+    <img src="/assets/Book.jpg" alt="Book2" width="75" style="float:left; margin-right:10px;"/>
+    Jackson, D. O., & Maie, R. (2023). Implicit/statistical learning and second language outcomes: A Bayesian meta-analysis. In E. Wen, P. Skehan, & R. Sparks (Eds.),
+    <i>Language aptitude theory and practice</i>. 
+    New York: Cambridge University Press.
+    <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003414643/practice-automatization-second-language-research-yuichi-suzuki">[Link]</a>
+    <div style="clear:both;"></div>
+  </li>
+
+  <li>
+    <img src="/assets/Book.jpg" alt="Book2" width="75" style="float:left; margin-right:10px;"/>
+    Maie, R. & Salen, B. (2021). Blustery with an occasional downpour: An analysis of target discourse in media weather forecasts. In M. J. Ahmaidan & M. H. Long (Eds.),
+    <i>The Cambridge handbook of task-based language teaching</i>. 
+    New York: Cambridge University Press.
+    <a href="https://www.cambridge.org/core/books/abs/cambridge-handbook-of-taskbased-language-teaching/blustery-with-an-occasional-downpour/1BAF4C99AFAC232F17E68409C03141DB">[Link]</a>
+    <div style="clear:both;"></div>
+  </li>
+
 </ol>
+
 
 ## Invited Articles
 <ol reversed>
