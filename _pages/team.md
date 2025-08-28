@@ -20,8 +20,10 @@ We have a strong research team focusing on second language acquisition and bilin
 - Fang Sun
   - Project: Examining the Effect of Contextual Diversity on L2 Incidental Vocabulary Learning: A Case of Japanese EFL Learners
 ### M.A. Students
-- Salvador Xiongfei Wang
+- **Salvador Xiongfei Wang**
   - Project: Effects of Talker Variability on Second Language Vocabulary Learning: A Classroom Study
 - Juni Kabe
   - Project: Learner Engagement in Task Repetition: The Impact of Learner-Generated Content and L2 Grit
+- Dallin Richardson
+  - Project* TBA  
 
