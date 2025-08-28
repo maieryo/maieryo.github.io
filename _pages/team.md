@@ -39,7 +39,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 ## Student Collaborators
 ### Ph.D. Students
 - **Fang Sun**  
-  Project: *Examining the Effect of Contextual Diversity on L2 Incidental Vocabulary Learning: A Case of Japanese EFL Learners*
+  Project: *Examining the Role of Model Texts in Out-of-Class Writing Support: A Case Study of Chinese University Students Majoring in Japanese*
 
 ### M.A. Students
 - **Salvador Xiongfei Wang**  
