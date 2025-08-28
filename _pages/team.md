@@ -20,6 +20,10 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 <div style="clear:both;"></div>
 
+<img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARFTohoku2024.jpg"
+     alt="JSLARFm"
+     width="500"
+     style="float:center; margin:0 1rem 1rem 0;" />
 
 ## Faculty Collaborators (Tohoku SLA Team)
 - **Hyeonjeong Jeong**, Professor — [Website](https://sites.google.com/view/hyeonjeong-jeong/home)
