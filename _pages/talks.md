@@ -9,7 +9,7 @@ author_profile: true
 <br/>
 <li> Maie, Oikawa, Ying, & Uchihara (2025, June). Cumulative testing for vocabulary learning: The role of retrieval practice and proficiency. Paper presented at <i>Vocab@Maryland</i>.</li>
 <br/>
-<li> Maie & Yi. (2023, October). Individual differences in L2 intuitions of phrasal frequency and association strength. Presented at <i>2023 Vocabulary SIG Symposium</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieYi2023VocabSIG.pdf)</li>
+<li> Maie & Yi. (2023, October). Individual differences in L2 intuitions of phrasal frequency and association strength. Presented at <i>2023 Vocabulary SIG Symposium</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieYi2023VocabSIG.pdf) </li>
 <br/>
 <li> Maie & Godfroid (2023, August). Testing the three stage model of L2 skill acquisition. <i>The 32nd Conference of the European Second Language Association</i>. [[Download]](https://github.com/maieryo/research/blob/presentations/MaieGodfroidEuroSLA32.pdf)</li>
 <br/>
