@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 ## About the Tohoku SLA Team
-<img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/tohokusla.png"
+<img src="{{ '/assets/images/tohokusla.png' | relative_url }}"
      alt="Tohoku SLA Team"
-     width="100"
-     style="display:block;margin:1rem auto;"
-     loading="lazy" />
+     width="300"
+     class="align-left"
+     style="margin:0 1rem 1rem 0;" />
 Our research group focuses on second language acquisition (SLA) and bilingualism. Using a range of data-collection and analysis tools—including eye-tracking and functional MRI (fMRI)—we conduct joint research among faculty members, postdoctoral fellows, and graduate students in the Graduate School of International Cultural Studies at Tohoku University. We regularly host events featuring internationally well-known scholars in SLA, bilingualism, and linguistics, providing opportunities to learn about state-of-the-art research. (For past and upcoming events, see the Research Center for Language, Brain, and Cognition.) *(Description adapted from the website of Takumi Uchihara.)*
 
 ## Faculty Collaborators (Tohoku SLA Team)
 - Hyeonjeong Jeong, Professor — [Website](https://sites.google.com/view/hyeonjeong-jeong/home)
 - Mariko Nakayama, Professor — [Website](https://www.intcul.tohoku.ac.jp/igpls/people/mariko-nakayama/)
-- Takumi Uchihara, **Distinguished** Associate Professor — [Website](https://takumiuchihara.weebly.com/)
+- Takumi Uchihara, Distinguished Associate Professor — [Website](https://takumiuchihara.weebly.com/)
 - Aki Tsunemoto, Associate Professor — [Website](https://akitsunemoto.wordpress.com/)
 - Ryuya Komuro, Postdoctoral Researcher — [Website](https://researchmap.jp/Komuro-Ryuya)
 
