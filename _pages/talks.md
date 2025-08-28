@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 <br/>
-<br/>
-<br/>
 
 <ol reversed>
   <li style="display:flex; align-items:flex-start; gap:15px; margin-bottom:1em;">
