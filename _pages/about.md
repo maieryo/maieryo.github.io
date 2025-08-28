@@ -11,9 +11,9 @@ redirect_from:
 <!-- First block (before Bio) -->
 <div style="text-align: justify;">
 
-  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/SkillAcquisition.jpeg"
+  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/SkillAcquisition.png"
        alt="SkillAcquisition"
-       width="300"
+       width="250"
        style="float:right; margin:0 0 1em 1em;" />
 
   Tohoku University<br/>
@@ -39,7 +39,7 @@ Before joining the SLS program, I completed my master’s degree in Second Langu
 <br/>
 <br/>
 
-<!-- Research section -->
+
 Research Interests
 ======
 <div style="text-align: justify;">
