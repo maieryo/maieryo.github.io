@@ -25,7 +25,7 @@ author_profile: true
     <a href="https://doi.org/10.1017/S026144482500059X">[Open Access]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/SSLA.png" alt="SSLA" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., & Godfroid, A. (2025). Testing the three-stage model of second language skill acquisition. 
@@ -33,7 +33,7 @@ author_profile: true
     <a href="https://doi.org/10.1017/S027226312500021X">[Open Access]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/TQ.png" alt="TESOL Quarterly" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., Oikawa, G., Chen, Y., & Uchihara, T. (2025). Vocabulary practice through testing: The role of retrieval practice and proficiency. 
@@ -41,7 +41,7 @@ author_profile: true
     <a href="https://doi.org/10.1002/tesq.3391">[Open Access]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/LTS.png" alt="Language Testing" width="75" style="float:left; margin-right:10px;"/>
     Koizumi, R., Maie, R., Yanagisawa, A., & In’nami, Y. (2024). Considerations to promote and accelerate Open Science: A response to Winke. 
@@ -49,7 +49,7 @@ author_profile: true
     <a href="https://doi.org/10.1177/02655322241239379">[Open Access]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/SSLA.png" alt="SSLA" width="75" style="float:left; margin-right:10px;"/>
     TwiLex Group. (2024). L1 effects on incidental vocabulary learning through bimodal input: A multisite replication of Malone (2018). 
@@ -57,7 +57,7 @@ author_profile: true
     <a href="https://doi.org/10.1017/S0272263124000275">[Open Access]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/VLI.png" alt="Vocabulary Learning and Instruction" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., & Yi, W. (2024). Individual differences in L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. 
@@ -65,7 +65,7 @@ author_profile: true
     <a href="https://www.castledown.com/journals/vli/article/view/1311">[Open Access]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/RMAL.png" alt="Research Methods in Applied Linguistics" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., Eguchi, M., & Uchihara, T. (2024). Arbitrary choices, arbitrary results: Three cases of multiverse analysis in applied linguistics. 
@@ -73,7 +73,7 @@ author_profile: true
     <a href="https://doi.org/10.1016/j.rmal.2024.100124">[Open Access]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/LL.png" alt="Language Learning" width="75" style="float:left; margin-right:10px;"/>
     Kim, K., Maie, R., Suga, K., Miller, Z., & Hui, B. (2023). Revisiting Williams (2005) with academic and non-academic samples: An individual differences study. 
@@ -81,7 +81,7 @@ author_profile: true
     <a href="https://doi.org/10.1111/lang.12616">[Open Access]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/LL.png" alt="Language Learning" width="75" style="float:left; margin-right:10px;"/>
     Yi, W., Man, K., & Maie, R. (2023). Investigating L1 and L2 speaker intuitions of phrasal frequency and association strength of multiword sequences. 
@@ -90,7 +90,7 @@ author_profile: true
     <a href="https://github.com/maieryo/research/blob/papers/YiEtAl2022LL.pdf">[Preprint Download]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/LL.png" alt="Language Learning" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. & Godfroid, A. (2022). Controlled and automatic processing in the acceptability judgment task: An eye-tracking study. 
@@ -99,7 +99,7 @@ author_profile: true
     <a href="https://github.com/maieryo/research/blob/papers/Preprint_MaieGodfroidLL.pdf">[Preprint Download]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/SSLA.png" alt="SSLA" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. & DeKeyser, R. M. (2020). Conflicting evidence of explicit and implicit knowledge from objective and subjective measures. 
@@ -121,7 +121,7 @@ author_profile: true
     <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003414643/practice-automatization-second-language-research-yuichi-suzuki">[Link]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/Book2.jpg" alt="Book2" width="75" style="float:left; margin-right:10px;"/>
     Jackson, D. O., & Maie, R. (2023). Implicit/statistical learning and second language outcomes: A Bayesian meta-analysis. In E. Wen, P. Skehan, & R. Sparks (Eds.),
@@ -130,7 +130,7 @@ author_profile: true
     <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003414643/practice-automatization-second-language-research-yuichi-suzuki">[Link]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/Book1.jpg" alt="Book1" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. & Salen, B. (2021). Blustery with an occasional downpour: An analysis of target discourse in media weather forecasts. In M. J. Ahmaidan & M. H. Long (Eds.),
@@ -153,7 +153,7 @@ author_profile: true
     <a href="https://www.taishukan.co.jp/book/b625619.html">[Link]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/SLS2.png" alt="SLS2" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis.
@@ -161,7 +161,7 @@ author_profile: true
     <a href="https://hcommons.org/deposits/item/hc:46463">[Link]</a> <a href="https://github.com/maieryo/research/blob/papers/Maie2022SLS.pdf">[Download]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/EE1.jpg" alt="EE1" width="75" style="float:left; margin-right:10px;"/>
     Suzuki, Y., Maie, R., & Suga, K. (2020). Grammar instruction in the midst of COVID-19: Diversifying grammar instruction and activity.
@@ -169,7 +169,7 @@ author_profile: true
     <a href="https://www.taishukan.co.jp/book/b525175.html">[Link]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/SLS1.png" alt="SLS1" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. (2019). Interview with Nick C. Ellis.
@@ -191,7 +191,7 @@ author_profile: true
     <a href="https://github.com/maieryo/research/blob/papers/RyoMaiePhDSLS.pdf">[Download]</a>
     <div style="clear:both;"></div>
   </li>
-
+  <br/>
   <li>
     <img src="/assets/UMD.png" alt="UMD" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. (2018).
