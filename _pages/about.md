@@ -8,11 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Tohoku University<br>
-Graduate School of International Cultural Studies<br>
-41 Kawauchi, Aoba-ku, Sendai<br>
-Miyagi 980-8576, Japan<br>
-Email: ryo.maie.e5(at.sign)tohoku.ac.jp<br>
+<img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/SkillAcquisition.jpeg"
+     alt="SkillAcquisition"
+     width="300"
+     style="float:right; margin:0 1rem 1rem 0;" />
+
+<div style="text-align: justify;">
+
+Tohoku University<br/>
+Graduate School of International Cultural Studies<br/>
+41 Kawauchi, Aoba-ku, Sendai<br/>
+Miyagi 980-8576, Japan<br/>
+Email: ryo.maie.e5(at.sign)tohoku.ac.jp<br/>
+
+</div>
+
+
 
 Bio
 ======
