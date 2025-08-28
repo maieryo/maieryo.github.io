@@ -132,7 +132,7 @@ author_profile: true
   </li>
 
   <li>
-    <img src="/assets/Book1.jpg" alt="Book2" width="75" style="float:left; margin-right:10px;"/>
+    <img src="/assets/Book1.jpg" alt="Book1" width="75" style="float:left; margin-right:10px;"/>
     Maie, R. & Salen, B. (2021). Blustery with an occasional downpour: An analysis of target discourse in media weather forecasts. In M. J. Ahmaidan & M. H. Long (Eds.),
     <i>The Cambridge handbook of task-based language teaching</i>. 
     New York: Cambridge University Press.
@@ -145,15 +145,61 @@ author_profile: true
 
 ## Invited Articles
 <ol reversed>
-  <li>Koizumi, R., & Maie, R. (2023). Open science in English language education research. <i>English Education</i>, (6). (Japanese) <a href="https://www.taishukan.co.jp/book/b625619.html">[Link]</a></li>
-  <li>Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis. <i>Working Papers in SLS</i>, <i>12</i>, 74–115. <a href="https://hcommons.org/deposits/item/hc:46463">[Link]</a> <a href="https://github.com/maieryo/research/blob/papers/Maie2022SLS.pdf">[Preprint Download]</a></li>
-  <li>Suzuki, Y., Maie, R., & Suga, K. (2020). Grammar instruction in the midst of COVID-19: Diversifying grammar instruction and activity. <i>English Education</i>, (9). (Japanese) <a href="https://www.taishukan.co.jp/book/b525175.html">[Link]</a></li>
-  <li>Maie, R. (2019). Interview with Nick C. Ellis. <i>Working Papers in SLS</i>, 10. <a href="https://hcommons.org/deposits/item/hc:45843">[Link]</a> <a href="https://github.com/maieryo/research/blob/papers/InterviewWithNickCEllis.pdf">[Preprint Download]</a></li>
+
+  <li>
+    <img src="/assets/EE2.jpg" alt="EE2" width="75" style="float:left; margin-right:10px;"/>
+    Koizumi, R., & Maie, R. (2023). Open science in English language education research
+    <i>English Education</i>, (6). 
+    <a href="https://www.taishukan.co.jp/book/b625619.html">[Link]</a>
+    <div style="clear:both;"></div>
+  </li>
+
+  <li>
+    <img src="/assets/SLS2.jpg" alt="SLS2" width="75" style="float:left; margin-right:10px;"/>
+    Maie, R. (2022). Testing effects in L2 grammar teaching research: A pilot meta-analysis.
+    <i>Working Papers in SLS</i>, <i>12</i>, 74–115.
+    <a href="https://hcommons.org/deposits/item/hc:46463">[Link]</a> <a href="https://github.com/maieryo/research/blob/papers/Maie2022SLS.pdf">[Download]</a>
+    <div style="clear:both;"></div>
+  </li>
+
+  <li>
+    <img src="/assets/EE1.jpg" alt="EE1" width="75" style="float:left; margin-right:10px;"/>
+    Suzuki, Y., Maie, R., & Suga, K. (2020). Grammar instruction in the midst of COVID-19: Diversifying grammar instruction and activity.
+    <i>English Education</i>, (9). 
+    <a href="https://www.taishukan.co.jp/book/b525175.html">[Link]</a>
+    <div style="clear:both;"></div>
+  </li>
+
+  <li>
+    <img src="/assets/SLS1.jpg" alt="SLS1" width="75" style="float:left; margin-right:10px;"/>
+    Maie, R. (2019). Interview with Nick C. Ellis.
+    <i>Working Papers in SLS</i>, <i>10</i>, 74–115.
+    <a href="https://hcommons.org/deposits/item/hc:46463">[Link]</a> <a href="https://github.com/maieryo/research/blob/papers/InterviewWithNickCEllis.pdf">[Download]</a>
+    <div style="clear:both;"></div>
+  </li>
+
 </ol>
 
 ## Thesis and Dissertation
 <ol reversed>
-  <li>Maie, R. (2022). <i>Testing the three-stage model of second language skill acquisition</i>. (Doctoral Dissertation, Michigan State University) <a href="https://github.com/maieryo/research/blob/papers/RyoMaiePhDSLS.pdf">[Download]</a></li>
-  <li>Maie, R. (2018). <i>Explicit and implicit cognitive aptitudes, L2 outcome measures, and learning of morphosyntax under an incidental condition</i>. (Master's Thesis, University of Maryland, College Park) <a href="https://drum.lib.umd.edu/handle/1903/21064">[Download]</a></li>
+  
+  <li>
+    <img src="/assets/MSU.jpeg" alt="MSU" width="75" style="float:left; margin-right:10px;"/>
+    Maie, R. (2022).
+    <i>Testing the three-stage model of second language skill acquisition</i>.
+    (Doctoral Dissertation, Michigan State University)
+    <a href="https://github.com/maieryo/research/blob/papers/RyoMaiePhDSLS.pdf">[Download]</a>
+    <div style="clear:both;"></div>
+  </li>
+
+  <li>
+    <img src="/assets/UMD.png" alt="UMD" width="75" style="float:left; margin-right:10px;"/>
+    Maie, R. (2018).
+    <i>Explicit and implicit cognitive aptitudes, L2 outcome measures, and learning of morphosyntax under an incidental condition<</i>.
+    (Master's Thesis, University of Maryland, College Park)
+    <a href="https://drum.lib.umd.edu/handle/1903/21064">[Download]</a>
+    <div style="clear:both;"></div>
+  </li>
+
 </ol>
 
