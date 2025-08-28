@@ -10,7 +10,7 @@ author_profile: true
 <figure style="text-align:center;">
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARFTohoku2024.jpg"
        alt="JSLARF2024"
-       width="600"
+       width="500"
        style="margin:0 1rem 1rem 0;" />
   <figcaption>JSLARF at Tohoku 2024</figcaption>
 </figure>
