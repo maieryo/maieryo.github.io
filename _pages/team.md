@@ -18,10 +18,10 @@ We have a strong research team focusing on second language acquisition and bilin
 ## Student Collaborators
 ### Ph.D. Students
 - Fang Sun
-  - Examining the Effect of Contextual Diversity on L2 Incidental Vocabulary Learning: A Case of Japanese EFL Learners
+  - Project: Examining the Effect of Contextual Diversity on L2 Incidental Vocabulary Learning: A Case of Japanese EFL Learners
 ### M.A. Students
 - Salvador Xiongfei Wang
-  - Effects of Talker Variability on Second Language Vocabulary Learning: A Classroom Study
+  - Project: Effects of Talker Variability on Second Language Vocabulary Learning: A Classroom Study
 - Juni Kabe
-  - Learner Engagement in Task Repetition: The Impact of Learner-Generated Content and L2 Grit
+  - Project: Learner Engagement in Task Repetition: The Impact of Learner-Generated Content and L2 Grit
 
