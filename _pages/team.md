@@ -18,11 +18,11 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 
 ## Faculty Collaborators (Tohoku SLA Team)
-- Hyeonjeong Jeong, Professor — [Website](https://sites.google.com/view/hyeonjeong-jeong/home)
-- Mariko Nakayama, Professor — [Website](https://www.intcul.tohoku.ac.jp/igpls/people/mariko-nakayama/)
-- Takumi Uchihara, **Distinguished** Associate Professor — [Website](https://takumiuchihara.weebly.com/)
-- Aki Tsunemoto, Associate Professor — [Website](https://akitsunemoto.wordpress.com/)
-- Ryuya Komuro, Postdoctoral Researcher — [Website](https://researchmap.jp/Komuro-Ryuya)
+- **Hyeonjeong Jeong**, Professor — [Website](https://sites.google.com/view/hyeonjeong-jeong/home)
+- **Mariko Nakayama**, Professor — [Website](https://www.intcul.tohoku.ac.jp/igpls/people/mariko-nakayama/)
+- **Takumi Uchihara**, **Distinguished** Associate Professor — [Website](https://takumiuchihara.weebly.com/)
+- **Aki Tsunemoto**, Associate Professor — [Website](https://akitsunemoto.wordpress.com/)
+- **Ryuya Komuro**, Postdoctoral Researcher — [Website](https://researchmap.jp/Komuro-Ryuya)
 
 ## Student Collaborators
 ### Ph.D. Students
@@ -39,16 +39,16 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 ## External Collaborators (Ongoing)
 ### Japan
-- Rie Koizumi, Professor (University of Tsukuba) — [Website](https://sites.google.com/view/riekoizumiwebsite/home/)
-- Yo In’nami, Professor (Chuo University) — [Website](https://sites.google.com/site/yoinnami/home?authuser=0)
-- Makoto Fukazawa, Professor (University of the Ryukyus) — [Website](https://kenkyushadb.lab.u-ryukyu.ac.jp/html/100000963_en.html)
-- Yuichi Suzuki, Associate Professor (Waseda University) — [Website](https://yuichisuzuki.net/)
+- **Rie Koizumi**, Professor (University of Tsukuba) — [Website](https://sites.google.com/view/riekoizumiwebsite/home/)
+- **Yo In’nami**, Professor (Chuo University) — [Website](https://sites.google.com/site/yoinnami/home?authuser=0)
+- **Makoto Fukazawa**, Professor (University of the Ryukyus) — [Website](https://kenkyushadb.lab.u-ryukyu.ac.jp/html/100000963_en.html)
+- **Yuichi Suzuki**, Associate Professor (Waseda University) — [Website](https://yuichisuzuki.net/)
 
 ### International
-- Aline Godfroid, Professor (Michigan State University, USA) — [Website](https://sls.msu.edu/aline-godfroid-2/)
-- John Rogers, Associate Professor (The Hong Kong Polytechnic University, Hong Kong) — [Website](https://www.polyu.edu.hk/engl/people/academic-staff/prof-john-rogers/?sc_lang=en)
-- Bronson Hui, Assistant Professor (University of Maryland, USA) — [Website](https://bronson-hui.github.io/index.html)
-- Yingzhao Chen, Lecturer (National University of Singapore, Singapore) — [Website](https://sites.google.com/view/yingzhaochen)
+- **Aline Godfroid**, Professor (Michigan State University, USA) — [Website](https://sls.msu.edu/aline-godfroid-2/)
+- **John Rogers**, Associate Professor (The Hong Kong Polytechnic University, Hong Kong) — [Website](https://www.polyu.edu.hk/engl/people/academic-staff/prof-john-rogers/?sc_lang=en)
+- **Bronson Hui**, Assistant Professor (University of Maryland, USA) — [Website](https://bronson-hui.github.io/index.html)
+- **Yingzhao Chen**, Lecturer (National University of Singapore, Singapore) — [Website](https://sites.google.com/view/yingzhaochen)
 
 <br>
 <br>
