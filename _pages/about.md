@@ -16,7 +16,7 @@ redirect_from:
   Miyagi 980-8576, Japan<br/>
   Email: ryo.maie.e5(at.sign)tohoku.ac.jp<br/>
 </div>
-<div style="text-align: center; margin-top: 1.5em;">
+<div style="text-align: left; margin-top: 1.5em;">
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/SkillAcquisition.png"
        alt="Research"
        width="400" />
