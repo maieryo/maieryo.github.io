@@ -7,7 +7,7 @@ author_profile: true
 
 <ol reversed>
   <li>
-    <img src="/assets/LTRC2025.png" alt="LTRC" style="display:block; margin-bottom:20px; width:400px;"/>
+    <img src="/assets/LTRC2025.png" alt="LTRC" style="display:block; margin-bottom:20px; width:300px;"/>
     Tsunemoto, Koizumi, Fukazawa, In'nami, Maie, & Abe (2025, June). Adapting and evaluating formative L2 comprehensibility assessment scale. Paper presented at
     <i>Language Testing Research Colloquium 2025</i>.
   </li>
