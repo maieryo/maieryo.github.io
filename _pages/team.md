@@ -12,7 +12,11 @@ author_profile: true
      width="300"
      style="float:right; margin:0 1rem 1rem 0;" />
 
+<div style="text-align: justify;">
+
 Our research group focuses on second language acquisition (SLA) and bilingualism. Using a range of data-collection and analysis tools—including eye-tracking and functional MRI (fMRI)—we conduct joint research among faculty members, postdoctoral fellows, and graduate students in the Graduate School of International Cultural Studies at Tohoku University. We regularly host events featuring internationally well-known scholars in SLA, bilingualism, and linguistics, providing opportunities to learn about state-of-the-art research. (For past and upcoming events, see the Research Center for Language, Brain, and Cognition.) *(Description adapted from the website of Takumi Uchihara.)*
+
+</div>
 
 <div style="clear:both;"></div>
 
