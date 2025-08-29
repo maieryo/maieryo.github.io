@@ -15,7 +15,9 @@ author_profile: true
   <li>Maie, R. (writing). Second language skill acquisition and production.</li>
   <li>Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (writing). Vocabulary testing in different modalities.</li>
   <li>Maie, R., & Uchihara, T. (submitted). Testing spoken vocabulary.</li>
+  
 </ol>
+
 
 ## Research Articles
 <ol reversed>
