@@ -5,16 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Research Projects
+<ol reversed>
+  <li>Maie, R., Uchihara, T. & Godfroid, A. (planning) Vocabulary and skill acquisition.</li>
+  <li>Maie, R. & Jeong, H. (planning). Second language skill acquisition in fMRI.</li>
+  <li>Nakayama, M., Uchihara, T., Jeong, H., Komuro, R., Yoshihra, M., Maie, R., & Huang, Y. (analysis). Visual word form area in Japanese-English bilinguals</li>
+  <li>Maie, R., & Godfroid, A. (analysis). Second language skill acquisition under different instructional conditions.</li>
+  <li>Tsunemoto, A., Koizumi, R., Fukazawa, M., In'nami, Y., Maie, R., & Abe, M. (writing). Adapting comprehensibility scales.
+  <li>Maie, R. (writing). Second language skill acquisition and production.</li>
+  <li>Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (writing). Vocabulary testing in different modalities.</li>
+</ol>
+
 ## Research Articles
 ### In Progress
 <ol reversed>
-  <li>Maie, R., Uchihara, T. & Godfroid, A. (in progress). Vocabulary and skill acquisition.</li>
-  <li>Maie, R., & Godfroid, A. (in progress). Second language skill acquisition under different instructional conditions.</li>
-  <li>Maie, R. (in progress). Second language skill acquisition and production.</li>
-  <li>Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (in progress). Vocabulary testing in different modalities.</li>
-  <li>Maie, R., & Uchihara, T. (in progress). Testing and spoken vocabulary.</li>
+  <li>Maie, R., & Uchihara, T. (submitted). Testing spoken vocabulary.</li>
 </ol>
-
 
 ### Published Articles
 <ol reversed>
