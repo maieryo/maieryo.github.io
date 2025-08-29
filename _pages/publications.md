@@ -14,15 +14,10 @@ author_profile: true
   <li>Tsunemoto, A., Koizumi, R., Fukazawa, M., In'nami, Y., Maie, R., & Abe, M. (writing). Adapting comprehensibility scales.
   <li>Maie, R. (writing). Second language skill acquisition and production.</li>
   <li>Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (writing). Vocabulary testing in different modalities.</li>
-</ol>
-
-## Research Articles
-### In Progress
-<ol reversed>
   <li>Maie, R., & Uchihara, T. (submitted). Testing spoken vocabulary.</li>
 </ol>
 
-### Published Articles
+## Research Articles
 <ol reversed>
   <li>
     <img src="/assets/LT.png" alt="Language Teaching" width="75" style="float:left; margin-right:10px;"/>
