@@ -35,7 +35,7 @@ redirect_from:
 
 # Professional Reference List
 **Dr. Aline Godfroid**<br>
-Red Cedar Distinguished Professor of TESOL & SLSbr>
+Red Cedar Distinguished Professor of TESOL & SLS<br>
 Michigan State University<br>
 Email: `godfroid@msu.edu`<br>
 
