@@ -14,7 +14,7 @@ Most of my free time (other than work) involves brewing and enjoying coffee. I k
   height="650">
 </iframe>
 
-For some interested in starting coffee life, I recommend starting with so-called <b>single origin coffee</b>, which refers to <u>coffee that comes from one specific geographic location including (in my opinion) a country, a region, or even a single farm or estate. Single origin coffee is characterized with the following two characteristics:
+For some interested in starting coffee life, I recommend starting with so-called <b>single origin coffee</b>, which refers to <u>coffee that comes from one specific geographic location including (in my opinion) a country, a region, or even a single farm or estate</u>. Single origin coffee is characterized with the following two characteristics:
 
 -  Traceability: You know exactly where your coffee comes from (e.g., Longboard Misty Mountain Farm in Boquete, Panama).
 -  Distinct flavor profiles: The taste reflects the <i>terroir</i>, climate, and altitude all influence the cup.
