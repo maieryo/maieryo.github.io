@@ -40,28 +40,28 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.greedy-nav .visible-links > li:nth-child(-n + 4) > a {
+.greedy-nav .visible-links > li:nth-child(-n + 5) > a {
   color: #000;               /* 1–4: black */
 }
-.greedy-nav .visible-links > li:nth-child(-n + 4) > a:hover,
-.greedy-nav .visible-links > li:nth-child(-n + 4) > a:focus {
+.greedy-nav .visible-links > li:nth-child(-n + 5) > a:hover,
+.greedy-nav .visible-links > li:nth-child(-n + 5) > a:focus {
   color: #000;               /* keep black on hover */
 }
 
 /* 5th: soft blue */
-.greedy-nav .visible-links > li:nth-child(5) > a {
+.greedy-nav .visible-links > li:nth-child(6) > a {
   color: #3b82f6;            /* blue (soft) */
 }
-.greedy-nav .visible-links > li:nth-child(5) > a:hover,
-.greedy-nav .visible-links > li:nth-child(5) > a:focus {
+.greedy-nav .visible-links > li:nth-child(6) > a:hover,
+.greedy-nav .visible-links > li:nth-child(6) > a:focus {
   color: #60a5fa;            /* lighter blue on hover */
 }
 
 /* 6th: soft red */
-.greedy-nav .visible-links > li:nth-child(6) > a {
+.greedy-nav .visible-links > li:nth-child(7) > a {
   color: #ef4444;            /* red (soft) */
 }
-.greedy-nav .visible-links > li:nth-child(6) > a:hover,
-.greedy-nav .visible-links > li:nth-child(6) > a:focus {
+.greedy-nav .visible-links > li:nth-child(7) > a:hover,
+.greedy-nav .visible-links > li:nth-child(7) > a:focus {
   color: #f87171;            /* lighter red on hover */
 }
