@@ -4,7 +4,7 @@ permalink: /coffee/
 layout: archive
 ---
 
-Most of my free time (other than work) involves brewing and enjoing coffee. I keep a record of coffee I've had to this date (since January 30, 2025). 
+Most of my free time (other than work) involves brewing and enjoing coffee. I keep a record of coffee I've had to this date (since January 30, 2025). Not all of them but ones I thought would be noteworthy (for my reminiscence).
 
 ---
 
