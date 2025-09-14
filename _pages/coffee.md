@@ -10,6 +10,6 @@ Most of my free time (other than work) involves brewing and enjoing coffee. I ke
 
 <iframe 
   src="https://docs.google.com/spreadsheets/d/1mkBmE5sjOipEgvan_whcHg5i3phVjBrAwAobX3XjkfA/edit?usp=sharing" 
-  width="800" 
-  height="600">
+  width="1200" 
+  height="1000">
 </iframe>
