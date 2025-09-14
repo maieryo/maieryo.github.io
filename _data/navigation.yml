@@ -9,11 +9,11 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Statistics"
-    url: /statmodeling/
-    
   - title: "Research Team"
     url: /team/
+
+  - title: "Statistics"
+    url: /statmodeling/
 
   - title: "Coffee"
     url: /coffee/
