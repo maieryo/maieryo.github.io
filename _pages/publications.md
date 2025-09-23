@@ -119,7 +119,7 @@ author_profile: true
     <img src="/assets/Book3.jpg" alt="Book3" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., & Godfroid, A. (2023). A synthesis of L2 practice research: What is “practice” and how has it been investigated? In Y. Suzuki (Ed.), 
     <i>Practice and automatization in second Language research: Perspectives from skill acquisition theory and cognitive psychology</i>. 
-    Routledge: Cambridge University Press.
+    Routledge.
     <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003414643/practice-automatization-second-language-research-yuichi-suzuki">[Link]</a>
     <div style="clear:both;"></div>
   </li>
