@@ -20,8 +20,8 @@ author_profile: true
   <li style="display:flex; align-items:flex-start; gap:15px; margin-bottom:1em;">
     <div style="flex:1;">
       Maie, Oikawa, Ying, & Uchihara (2025, June). Cumulative testing for vocabulary learning: The role of retrieval practice and proficiency. 
-      Paper presented at <i>Vocab@Maryland</i>. 
-      <a href="https://github.com/maieryo/research/blob/presentations/MaieEtAlVocabAtMaryland2025.pdf>[Download]</a>
+      Paper presented at <i>Vocab@Maryland</i>.
+      <a href="https://github.com/maieryo/research/blob/presentations/MaieEtAlVocabAtMaryland2025.pdf">[Download]</a>
     </div>
     <div>
       <img src="/assets/VocabMaryland.jpg" alt="VocabMaryland" style="width:200px;"/>
