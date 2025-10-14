@@ -9,6 +9,26 @@ author_profile: true
 <ol reversed>
   <li style="display:flex; align-items:flex-start; gap:15px; margin-bottom:1em;">
     <div style="flex:1;">
+      Rogers, Chen, Hui, Maie, Ha, & Li (2026, March). Do data collection methods matter for incidental vocabulary learning?: In-person vs. online data.
+      Paper presented at <i>American Association for Applied Linguistics 2026</i>.
+    </div>
+    <div>
+      <img src="/assets/AAAL2026.png" alt="LTRC" style="width:200px;"/>
+    </div>
+  </li>
+ 
+  <li style="display:flex; align-items:flex-start; gap:15px; margin-bottom:1em;">
+    <div style="flex:1;">
+      Wang & Maie (2026, March). Effects of talker variability on second language vocabulary learning: A classroom study.
+      Paper presented at <i>American Association for Applied Linguistics 2026</i>.
+    </div>
+    <div>
+      <img src="/assets/AAAL2026.png" alt="LTRC" style="width:200px;"/>
+    </div>
+  </li>
+  
+  <li style="display:flex; align-items:flex-start; gap:15px; margin-bottom:1em;">
+    <div style="flex:1;">
       Tsunemoto, Koizumi, Fukazawa, In'nami, Maie, & Abe (2025, June). Adapting and evaluating formative L2 comprehensibility assessment scale. 
       Paper presented at <i>Language Testing Research Colloquium 2025</i>.
       <a href="https://github.com/maieryo/research/blob/presentations/TsunemotoAtAlLTRC2025.pdf">[Download]</a>
