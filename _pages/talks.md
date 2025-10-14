@@ -13,7 +13,7 @@ author_profile: true
       Paper presented at <i>American Association for Applied Linguistics 2026</i>.
     </div>
     <div>
-      <img src="/assets/AAAL2026.png" alt="LTRC" style="width:200px;"/>
+      <img src="/assets/AAAL2026.png" alt="AAAL2026" style="width:200px;"/>
     </div>
   </li>
  
@@ -23,7 +23,7 @@ author_profile: true
       Paper presented at <i>American Association for Applied Linguistics 2026</i>.
     </div>
     <div>
-      <img src="/assets/AAAL2026.png" alt="LTRC" style="width:200px;"/>
+      <img src="/assets/AAAL2026.png" alt="AAAL2026" style="width:200px;"/>
     </div>
   </li>
   
