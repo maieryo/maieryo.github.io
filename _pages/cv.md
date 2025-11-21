@@ -16,11 +16,11 @@ redirect_from:
 
 | Years         | Position                                | Institution & Department                                           |
 |---------------|------------------------------------------|--------------------------------------------------------------------|
-| 2025 – present| Assistant Professor on Call              | [Second Language Studies, Department of Linguistics, Languages, and Cultures](https://sls.msu.edu/)|
 | 2024 – present| Senior Assistant Professor               | [Tohoku University, Graduate School of International Cultural Studies](https://www.intcul.tohoku.ac.jp/english/) |
 |               | - Cross-appointment                      | [Tohoku University, the International Graduate Program in Language Sciences](https://www.intcul.tohoku.ac.jp/igpls/) |
 |               | - Cross-appointment                      | [Tohoku University, Research Center for Language, Brain, and Cognition](https://sites.google.com/view/lbcresearchcenter) |
 |               | - Cross-appointment                      | [Tohoku University, Cognitive Neuroscience Application Center](https://cognac.tohoku.ac.jp/eng/) |
+| 2025 – 2025   | Assistant Professor on Call              | [Second Language Studies, Department of Linguistics, Languages, and Cultures](https://sls.msu.edu/)|
 | 2023 – 2024   | Project Assistant Professor              | [University of Tokyo, IIIEE, School of Engineering](https://sites.google.com/g.ecc.u-tokyo.ac.jp/global-education/menu) |
 | 2022 – 2023   | Senior Academic Specialist               | [University of Tokyo, IIIEE, School of Engineering](https://sites.google.com/g.ecc.u-tokyo.ac.jp/global-education/menu) |
 | 2022 – 2023   | Part-time Lecturer                       | [University of Tokyo, IIIEE, School of Engineering](https://sites.google.com/g.ecc.u-tokyo.ac.jp/global-education/menu) |
