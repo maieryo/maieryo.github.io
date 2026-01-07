@@ -43,7 +43,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 ### M.A. Students
 - **Dallin Richardson** (2025—) <br>
-  Project: *Metacognitive Instruction, Learner Psychology,and Engagement in Classroom Speaking*
+  Project: *Metacognitive Instruction, Learner Psychology, and Engagement in Classroom Speaking*
 - **Juni Kabe** (2024—) <br>
   Project: *Learner Engagement in Task Repetition: The Impact of Learner-Generated Content and L2 Grit*
 - **Salvador Xiongfei Wang**  (2024—) <br>
