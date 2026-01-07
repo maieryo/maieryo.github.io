@@ -42,12 +42,12 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
   Project: *Examining the Role of Model Texts in Out-of-Class Writing Support: A Case Study of Chinese University Students Majoring in Japanese*
 
 ### M.A. Students
-- **Salvador Xiongfei Wang**  (2024—) <br>
-  Project: *Effects of Talker Variability on Second Language Vocabulary Learning: A Classroom Study*
-- **Juni Kabe** (2024—) <br>
-  Project: *Learner Engagement in Task Repetition: The Impact of Learner-Generated Content and L2 Grit*
 - **Dallin Richardson** (2025—) <br>
   Project: *Metacognitive instruction, learner psychology,and engagement in classroom speaking*
+- **Juni Kabe** (2024—) <br>
+  Project: *Learner Engagement in Task Repetition: The Impact of Learner-Generated Content and L2 Grit*
+- **Salvador Xiongfei Wang**  (2024—) <br>
+  Project: *Effects of Talker Variability on Second Language Vocabulary Learning: A Classroom Study*
 
 ## External Collaborators (Ongoing)
 ### Japan
