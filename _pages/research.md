@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research deals with cognitive psychology of second language acquisition, relating to psychological mechanisms of how people acquire a second language (L2) and how the knowledge about the process and mechanism of learning can be applied to classroom instruction. I place the premium on practice, defined as "specific activities in the second language, engaged in systematically, deliberately, with the goals of developing knowledge of and skills in the second language" (DeKeyser, 2007, p.1), and hence echo with Lightbown (2019, p.704) when she claims "practice is the only way to make perfect, but the challenge is to understand what kind of practice will lead learners closer to that goal". In line with this theme, my research largely resolves around four general areas:
+My research deals with cognitive psychology of second language acquisition, relating to psychological mechanisms of how people acquire a second language (L2) and how the knowledge about the process and mechanism of learning can be applied to classroom instruction. I place the premium on practice, defined as "specific activities in the second language, engaged in systematically, deliberately, with the goals of developing knowledge of and skills in the second language" (DeKeyser, 2007, p.1). In line with this theme, my research largely revolves around the following topics:
 <br>
 
 # Skill Acquisition Theory
