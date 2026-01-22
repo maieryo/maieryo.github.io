@@ -45,7 +45,7 @@ Research Interests
 </div>
 
 <div style="text-align: center; margin-top: 1.5em;">
-  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/power.png"
+  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/PowerLaw.jpg"
        alt="Research"
        width="600" />
 </div>
