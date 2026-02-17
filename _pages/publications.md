@@ -13,11 +13,18 @@ author_profile: true
   <li>Maie, R., & Godfroid, A. (writing). Second language skill acquisition under different instructional conditions.</li>
   <li>Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (writing). Vocabulary testing in different modalities.</li>
   <li>Tsunemoto, A., Koizumi, R., Fukazawa, M., In'nami, Y., Maie, R., & Abe, M. (submitted). Adapting comprehensibility scales.</li>
-  <li>Maie, R., & Uchihara, T. (submitted). Testing spoken vocabulary.</li> 
 </ol>
 
 ## Research Articles
 <ol reversed>
+  <li>
+    <img src="/assets/TQ.png" alt="TESOL Quarterly" width="75" style="float:left; margin-right:10px;"/>
+    Maie, R., & Uchihara, T. (in press). Cumulative testing for learning spoken vocabulary. 
+    <i>TESOL Quarterly</i>. 
+    <a href="">[Open Access]</a>
+    <div style="clear:both;"></div>
+  </li>
+  <br/>
   <li>
     <img src="/assets/LT.png" alt="Language Teaching" width="75" style="float:left; margin-right:10px;"/>
     Suzuki, Y., Maie, R., & Hui, B. (2025). Research timeline: Automatization in second language learning. 
