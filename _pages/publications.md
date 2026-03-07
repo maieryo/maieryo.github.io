@@ -21,7 +21,9 @@ author_profile: true
     <img src="/assets/TQ.png" alt="TESOL Quarterly" width="75" style="float:left; margin-right:10px;"/>
     Maie, R., & Uchihara, T. (in press). Cumulative testing for learning spoken vocabulary. 
     <i>TESOL Quarterly</i>.
+    <a href="https://doi.org/10.1002/tesq.70085">[Open Access]</a>
     <div style="clear:both;"></div>
+    
   </li>
   <br/>
   <li>
