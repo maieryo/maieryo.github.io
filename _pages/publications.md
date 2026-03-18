@@ -9,8 +9,9 @@ author_profile: true
 <ol reversed>
   <li>Richardson, D. L, & Maie, R. (on-going). Metacognitive instruction, learner psychology, and engagement in classroom speaking.</li>
   <li>Kabe, J., & Maie, R. (on-going). Learner engagement in task Repetition: The impact of learner-generated content and L2 grit.</li>
-  <li>Maie, R., Komuro, R., Kabe, J., Kawazura, Y., & Jeong, H. (on-going). Second language skill acquisition in fMRI.</li>
-  <li>Nakayama, M., Uchihara, T., Jeong, H., Komuro, R., Yoshihra, M., Maie, R., & Huang, Y. (analysis). Visual word form area in Japanese-English bilinguals</li>
+  <li>Maie, R., Koizumi, R., In'nami, Y., Hanazawa, N., Ose, W., Shiraishi, T., Asano, R., & Miyake, M. (Analysis). Using AI for classroom formative assessment of speaking skills and development.</li> 
+  <li>Maie, R., Komuro, R., Kabe, J., Kawazura, Y., & Jeong, H. (Analysis). Second language skill acquisition in fMRI.</li>
+  <li>Nakayama, M., Uchihara, T., Jeong, H., Komuro, R., Yoshihra, M., Maie, R., & Huang, Y. (analysis). Visual word form area in Japanese-English bilinguals.</li>
   <li>Maie, R., Uchihara, T., Wang, X., & Godfroid, A. (analysis) Vocabulary and skill acquisition.</li>
   <li>Maie, R., & Godfroid, A. (writing). Second language skill acquisition under different instructional conditions.</li>
   <li>Uchihara, T., Maie, R., Komuro, R., & Oikawa, G. (writing). Vocabulary testing in different modalities.</li>
