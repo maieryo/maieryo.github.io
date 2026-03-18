@@ -7,6 +7,8 @@ author_profile: true
 
 ## Research Projects
 <ol reversed>
+  <li>Richardson, D. L, & Maie, R. (on-going). Metacognitive instruction, learner psychology, and engagement in classroom speaking.</li>
+  <li>Kabe, J., & Maie, R. (on-going). Learner engagement in task Repetition: The impact of learner-generated content and L2 grit.</li>
   <li>Maie, R., Komuro, R., Kabe, J., Kawazura, Y., & Jeong, H. (on-going). Second language skill acquisition in fMRI.</li>
   <li>Nakayama, M., Uchihara, T., Jeong, H., Komuro, R., Yoshihra, M., Maie, R., & Huang, Y. (analysis). Visual word form area in Japanese-English bilinguals</li>
   <li>Maie, R., Uchihara, T., Wang, X., & Godfroid, A. (analysis) Vocabulary and skill acquisition.</li>
@@ -19,7 +21,7 @@ author_profile: true
 <ol reversed>
   <li>
     <img src="/assets/TQ.png" alt="TESOL Quarterly" width="75" style="float:left; margin-right:10px;"/>
-    Maie, R., & Uchihara, T. (in press). Cumulative testing for learning spoken vocabulary. 
+    Maie, R., & Uchihara, T. (2026). Cumulative testing for learning spoken vocabulary. 
     <i>TESOL Quarterly</i>.
     <a href="https://doi.org/10.1002/tesq.70085">[Open Access]</a>
     <div style="clear:both;"></div>
