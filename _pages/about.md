@@ -17,10 +17,12 @@ redirect_from:
   Email: ryo.maie.e5(at.sign)tohoku.ac.jp<br/>
 </div>
 
+
+
 <div style="text-align: left; margin-top: 1.5em;">
-  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/SkillAcquisition.png"
-       alt="Research"
-       width="400" />
+  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/Cloud.png"
+       alt="Cloud"
+       width="500" />
 </div>
 
 <br/>
@@ -48,10 +50,5 @@ Research Interests
 
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/PowerLaw.jpg"
        alt="Power Law"
-       width="400" />
-
-  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/Cloud.png"
-       alt="Cloud"
-       width="400" />
-
+       width="500" />
 </div>
