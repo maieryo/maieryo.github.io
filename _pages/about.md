@@ -18,12 +18,11 @@ redirect_from:
 </div>
 
 <br/>
-<br/>
 
 <div style="text-align: left; margin-top: 1.5em;">
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/Cloud.png"
        alt="Cloud"
-       width="500" />
+       width="400" />
 </div>
 
 <br/>
