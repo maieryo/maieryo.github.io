@@ -31,6 +31,8 @@ Relevant work:
 In development.
 
 Relevant work:
+- Maie, R., & Uchihara, T. (2026). Maie, R., & Uchihara, T. (2026). Cumulative testing for learning spoken vocabulary. <i>TESOL Quarterly</i>.
+- Maie, R., Oikawa, G., Chen, Y., & Uchihara, T. (2025). Vocabulary practice through testing: The role of retrieval practice and proficiency. <i>TESOL Quarterly</i>, <i>59</i>(4), 1979-2008.
 - Suzuki, Y., Maie, R., & Hui, B. (2025). Research timeline: Automatization in second language learning. 
     <i>Language Teaching</i>.
 - Maie, R., & Godfroid, A. (2023). A synthesis of L2 practice research: What is “practice” and how has it been investigated? In Y. Suzuki (Ed.), 
