@@ -44,8 +44,14 @@ Research Interests
   In addition, I have worked on (a) explicit and implicit learning, (b) language aptitudes, (c) monitoring processes, (d) task-based language teaching, and (e) applied statistics in language research.
 </div>
 
-<div style="text-align: center; margin-top: 1.5em;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 1.5em;">
+
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/PowerLaw.jpg"
-       alt="Research"
-       width="600" />
+       alt="Power Law"
+       width="400" />
+
+  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/Cloud.png"
+       alt="Cloud"
+       width="400" />
+
 </div>
