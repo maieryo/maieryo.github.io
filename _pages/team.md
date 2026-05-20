@@ -38,29 +38,20 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 ## Student Collaborators
 ### Ph.D. Students
-- **Fang Sun** (2023—)
+- **Satoshi Otsuka**  (2026—) <br>
+  Project: *Exploring the Interface between Willingness to Communicate and Task Engagement: A Longitudinal Classroom Study*
+- **Fang Sun** (2023—2025)
   Project: *Examining the Role of Model Texts in Out-of-Class Writing Support: A Case Study of Chinese University Students Majoring in Japanese*
 
 ### M.A. Students
+- **Mana Sugawara**  (2026—) <br>
+  Project: Topic TBD
 - **Dallin Richardson** (2025—) <br>
   Project: *Metacognitive Instruction, Learner Psychology, and Engagement in Classroom Speaking*
 - **Juni Kabe** (2024—) <br>
   Project: *Learner Engagement in Task Repetition: The Impact of Learner-Generated Content and L2 Grit*
 - **Salvador Xiongfei Wang**  (2024—) <br>
   Project: *Effects of Talker Variability on Second Language Vocabulary Learning: A Classroom Study*
-
-## External Collaborators (Ongoing)
-### Japan
-- **Rie Koizumi**, Professor (University of Tsukuba) — [Website](https://sites.google.com/view/riekoizumiwebsite/home/)
-- **Yo In’nami**, Professor (Chuo University) — [Website](https://sites.google.com/site/yoinnami/home?authuser=0)
-- **Makoto Fukazawa**, Professor (University of the Ryukyus) — [Website](https://kenkyushadb.lab.u-ryukyu.ac.jp/html/100000963_en.html)
-- **Yuichi Suzuki**, Associate Professor (Waseda University) — [Website](https://yuichisuzuki.net/)
-
-### International
-- **Aline Godfroid**, Professor (Michigan State University, USA) — [Website](https://sls.msu.edu/aline-godfroid-2/)
-- **John Rogers**, Associate Professor (The Hong Kong Polytechnic University, Hong Kong) — [Website](https://www.polyu.edu.hk/engl/people/academic-staff/prof-john-rogers/?sc_lang=en)
-- **Bronson Hui**, Assistant Professor (University of Maryland, USA) — [Website](https://bronson-hui.github.io/index.html)
-- **Yingzhao Chen**, Lecturer (National University of Singapore, Singapore) — [Website](https://sites.google.com/view/yingzhaochen)
 
 <br>
 <br>
