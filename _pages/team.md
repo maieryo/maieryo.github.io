@@ -40,7 +40,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 ### Ph.D. Students
 - **Satoshi Otsuka**  (2026—) <br>
   Project: *Exploring the Interface between Willingness to Communicate and Task Engagement: A Longitudinal Classroom Study*
-- **Fang Sun** (2023—2025)
+- **Fang Sun** (2023—2025) <br>
   Project: *Examining the Role of Model Texts in Out-of-Class Writing Support: A Case Study of Chinese University Students Majoring in Japanese*
 
 ### M.A. Students
