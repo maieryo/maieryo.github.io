@@ -20,7 +20,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 <div style="clear:both;"></div>
 
-<figure style="float:left; width:55%; margin:0 2rem 1rem 0;">
+<figure style="float:right; width:40%; margin:0 0 1rem 2rem;">
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARF2025.png"
        alt="JSLARF2025"
        style="width:100%; height:auto;" />
@@ -28,6 +28,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 </figure>
 
 ## Faculty Collaborators (Tohoku SLA Team)
+
 - **Hyeonjeong Jeong**, Professor — [Website](https://sites.google.com/view/hyeonjeong-jeong/home)
 - **Mariko Nakayama**, Professor — [Website](https://www.intcul.tohoku.ac.jp/igpls/people/mariko-nakayama/)
 - **Takumi Uchihara**, Distinguished Associate Professor — [Website](https://takumiuchihara.weebly.com/)
@@ -37,20 +38,27 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 <div style="clear:both;"></div>
 
 ## Student Collaborators
+
 ### Ph.D. Students
-- **Satoshi Otsuka**  (2026—) <br>
+
+- **Satoshi Otsuka** (2026—) <br>
   Project: *Exploring the Interface between Willingness to Communicate and Task Engagement: A Longitudinal Classroom Study*
+
 - **Fang Sun** (2023—2025) <br>
   Project: *Examining the Role of Model Texts in Out-of-Class Writing Support: A Case Study of Chinese University Students Majoring in Japanese*
 
 ### M.A. Students
-- **Mana Sugawara**  (2026—) <br>
+
+- **Mana Sugawara** (2026—) <br>
   Project: Topic TBD
+
 - **Dallin Richardson** (2025—) <br>
   Project: *Metacognitive Instruction, Learner Psychology, and Engagement in Classroom Speaking*
+
 - **Juni Kabe** (2024—) <br>
   Project: *Learner Engagement in Task Repetition: The Impact of Learner-Generated Content and L2 Grit*
-- **Salvador Xiongfei Wang**  (2024—) <br>
+
+- **Salvador Xiongfei Wang** (2024—) <br>
   Project: *Effects of Talker Variability on Second Language Vocabulary Learning: A Classroom Study*
 
 <br>
