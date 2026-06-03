@@ -20,7 +20,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 <div style="clear:both;"></div>
 
-<figure style="float:right; width:40%; margin:0 0 1rem 2rem;">
+<figure style="float:right; width:45%; margin:0 0 1rem 2rem;">
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARF2025.png"
        alt="JSLARF2025"
        style="width:100%; height:auto;" />
@@ -31,7 +31,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 - **Hyeonjeong Jeong**, Professor — [Website](https://sites.google.com/view/hyeonjeong-jeong/home)
 - **Mariko Nakayama**, Professor — [Website](https://www.intcul.tohoku.ac.jp/igpls/people/mariko-nakayama/)
-- **Takumi Uchihara**, Distinguished Associate Professor — [Website](https://takumiuchihara.weebly.com/)
+- **Takumi Uchihara**, Associate Professor — [Website](https://takumiuchihara.weebly.com/)
 - **Aki Tsunemoto**, Associate Professor — [Website](https://akitsunemoto.wordpress.com/)
 - **Ryuya Komuro**, Postdoctoral Researcher — [Website](https://researchmap.jp/Komuro-Ryuya)
 
