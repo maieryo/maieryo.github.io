@@ -21,9 +21,17 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 <div style="clear:both;"></div>
 
 <figure style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARF.png"
+  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARF2024.png"
        alt="JSLARF"
-       width="500"
+       width="450"
+       style="margin:0 1rem 1rem 0;" />
+  <figcaption>JSLARF at Tohoku</figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARF2025.png"
+       alt="JSLARF"
+       width="400"
        style="margin:0 1rem 1rem 0;" />
   <figcaption>JSLARF at Tohoku</figcaption>
 </figure>
