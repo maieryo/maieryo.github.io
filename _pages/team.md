@@ -20,17 +20,10 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 <div style="clear:both;"></div>
 
-<figure style="text-align:left; max-width:600px; margin:0 0 1rem 0;">
-  <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARF2024.png"
-       alt="JSLARF2024"
-       style="width:600px; max-width:100%; height:auto;" />
-  <figcaption>JSLARF at Tohoku 2024</figcaption>
-</figure>
-
 <figure style="text-align:left; max-width:500px; margin:0 0 1rem 0;">
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARF2025.png"
        alt="JSLARF2025"
-       style="width:500px; max-width:100%; height:auto;" />
+       style="width:520px; max-width:100%; height:auto;" />
   <figcaption>JSLARF at Tohoku 2025</figcaption>
 </figure>
 
