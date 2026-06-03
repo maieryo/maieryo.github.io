@@ -20,10 +20,10 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 
 <div style="clear:both;"></div>
 
-<figure style="text-align:left; max-width:500px; margin:0 0 1rem 0;">
+<figure style="float:left; width:55%; margin:0 2rem 1rem 0;">
   <img src="https://raw.githubusercontent.com/maieryo/maieryo.github.io/master/assets/JSLARF2025.png"
        alt="JSLARF2025"
-       style="width:520px; max-width:100%; height:auto;" />
+       style="width:100%; height:auto;" />
   <figcaption>JSLARF at Tohoku 2025</figcaption>
 </figure>
 
@@ -33,6 +33,8 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 - **Takumi Uchihara**, Distinguished Associate Professor — [Website](https://takumiuchihara.weebly.com/)
 - **Aki Tsunemoto**, Associate Professor — [Website](https://akitsunemoto.wordpress.com/)
 - **Ryuya Komuro**, Postdoctoral Researcher — [Website](https://researchmap.jp/Komuro-Ryuya)
+
+<div style="clear:both;"></div>
 
 ## Student Collaborators
 ### Ph.D. Students
