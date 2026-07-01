@@ -49,7 +49,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 ### M.A. Students
 
 - **Mana Sugawara** (2026—) <br>
-  Project: Topic TBD
+  Project: *Enhancing Learner Interactional Competence through Metacognitive Instruction*
 
 - **Dallin Richardson** (2025—) <br>
   Project: *Metacognitive Instruction, Learner Psychology, and Engagement in Classroom Speaking*
