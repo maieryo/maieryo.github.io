@@ -9,6 +9,16 @@ author_profile: true
 <ol reversed>
   <li style="display:flex; align-items:flex-start; gap:15px; margin-bottom:1em;">
     <div style="flex:1;">
+      Kabe &  Maie (2026, June). Learner engagement in task tepetition: The role of learner-generated content and L2 grit.
+      Paper presented at <i>The Tohoku English Language Education Society 2026</i>.
+    </div>
+    <div>
+      <img src="/assets/TELES.png" alt="TELES" style="width:200px;"/>
+    </div>
+  </li>
+  
+  <li style="display:flex; align-items:flex-start; gap:15px; margin-bottom:1em;">
+    <div style="flex:1;">
       Rogers, Chen, Hui, Maie, Ha, & Li (2026, March). Do data collection methods matter for incidental vocabulary learning?: In-person vs. online data.
       Paper presented at <i>American Association for Applied Linguistics 2026</i>.
     </div>
