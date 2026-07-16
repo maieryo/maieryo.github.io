@@ -5,7 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-My research deals with cognitive psychology of second language acquisition, relating to psychological mechanisms of how people acquire a second language (L2) and how the knowledge about the process and mechanism of learning can be applied to classroom instruction. I place the premium on practice, defined as "specific activities in the second language, engaged in systematically, deliberately, with the goals of developing knowledge of and skills in the second language" (DeKeyser, 2007, p.1). In line with this theme, my research largely revolves around the following topics:
+My research deals with cognitive psychology of second language acquisition, relating to psychological mechanisms of how people acquire a second language (L2) and how the knowledge about the process and mechanism of learning can be applied to classroom instruction. I place the premium on **practice**, defined as "specific activities in the second language, engaged in systematically, deliberately, with the goals of developing knowledge of and skills in the second language" (DeKeyser, 2007, p.1).
+
+Every time I ask during my classes or talks whether practice is necessary for L2 learning, everyone raises their hand. But when I ask whether anyone has ever wanted to research that question or investigate it more deeply, no one raises their hand. **Why?**
+
+In my lab, we ask a wide range of questions revolving around the concept of practice in L2 learning. Here are just a few examples:
+- How do people develop L2 skills through consistent practice?
+  - Skill Acquisition Theory
+- How can we teach to maximize the benefits of practice?
+  - Retrieval practice, spacing, interleaving, contextualized practice, and more
+- How can we increase the quantity and quality of practice?
+  - Learner psychology (engagement, WTC, emotion, motivation), metacognitive instruction, LGC/TGC
+- What do learners think about practice, and how can we improve it?
+- How do the outcomes of practice relate to L2 skills?
+- How does practice connect with other areas of L2 research?
+  - Task-based language teaching (TBLT), language testing, interaction, vocabulary, pronunciation, pragmatics, and more
+
 <br>
 <br>
 
