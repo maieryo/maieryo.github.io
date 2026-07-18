@@ -10,16 +10,13 @@ My research deals with cognitive psychology of second language acquisition, rela
 Every time I ask during my classes or talks whether practice is necessary for L2 learning, everyone raises their hand. But when I ask whether anyone has ever wanted to research that question or investigate it more deeply, no one raises their hand. **Why?**
 
 In my lab, we ask a wide range of questions revolving around the concept of practice in L2 learning. Here are just a few examples:
-- How do people develop L2 skills through consistent practice?
-  - Skill Acquisition Theory
-- How can we teach to maximize the benefits of practice?
-  - Retrieval practice, spacing, interleaving, contextualized practice, and more
-- How can we increase the quantity and quality of practice?
-  - Learner psychology (engagement, WTC, emotion, motivation), metacognitive instruction, LGC/TGC
-- What do learners think about practice, and how can we improve it?
-- How do the outcomes of practice relate to L2 skills?
-- How does practice connect with other areas of L2 research?
-  - Task-based language teaching (TBLT), language testing, interaction, vocabulary, pronunciation, pragmatics, and more
+
+<div style="text-align: left;">
+  <img
+    src="{{ '/assets/RQs.png' | relative_url }}"
+    style="height: 250px; object-fit: contain;"
+  >
+</div>
 
 <br>
 <br>
