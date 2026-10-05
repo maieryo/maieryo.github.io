@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Edited Volumes 
+<ol reversed>
+  <li>
+    <img src="/assets/SSLA.png" alt="SSLA" width="75" style="float:left; margin-right:10px;"/>
+    Maie, R., Uchihara, T., Suzuki, Y. & Godfroid, A. (Eds.) (2027, in prep). Beyond form and meaning: 
+    Rethinking vocabulary knowledge, instruction, and assessment from a knowledge-to-use perspective.
+    <i>Studies in Second Language Acquisition</i>. [Guest Editor of Special Issue]
+    <div style="clear:both;"></div>
+  </li>
+</ol>
 
 ## Research Articles
 <ol reversed>
