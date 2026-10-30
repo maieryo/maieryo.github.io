@@ -39,6 +39,8 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 ## Student Collaborators
 
 ### Ph.D. Students
+- **Salvador Xiongfei Wang** (2026—) <br>
+  Project: *TBD*
 
 - **Satoshi Otsuka** (2026—) <br>
   Project: *Exploring the Interface between Willingness to Communicate and Task Engagement: A Longitudinal Classroom Study*
@@ -57,7 +59,7 @@ Our research group focuses on second language acquisition (SLA) and bilingualism
 - **Juni Kabe** (2024—) <br>
   Project: *Learner Engagement in Task Repetition: The role of Learner-Generated Content and L2 Grit*
 
-- **Salvador Xiongfei Wang** (2024—) <br>
+- **Salvador Xiongfei Wang** (2024—2026) <br>
   Project: *Effects of Talker Variability on Second Language Vocabulary Learning: A Classroom Study*
 
 <br>
